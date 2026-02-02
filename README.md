@@ -2,10 +2,10 @@
 
 ## Database Schema (DDL)
 
-- The database schema (tables and relationships) is defined in [`Table.sql`](/SQL/tables.sql).
+- The database schema (tables and relationships) is defined in [`Table.sql`](data_schema/SQL/tables.sql).
 - Schema Viz: [Lucid ERD](https://lucid.app/lucidchart/c8f9a16b-6750-4a4a-a5bd-193fa2eaf2b2/edit?viewport_loc=-469%2C635%2C1109%2C559%2C94fcxOAn5dOq&invitationId=inv_f6e46a87-9759-4367-b821-42824750e3f7)
 
-<img src="./Images/ERD.png" alt="ERD" width="400"/>
+<img src="data_schema/Images/ERD.png" alt="ERD" width="400"/>
 
 ---
 
@@ -16,10 +16,17 @@ This pipeline fetches data from three Baserow tables:
 - **Tools**
 - **Libraries**
 
-Outputs are saved to `data/snapshots/` as JSON.
-In `data.ipynb`, we can see the data in a more readable format.
+The code for this pipeline is located in the `baserow_api` directory.
+Outputs are saved to `baserow_api/data/snapshots/` as JSON.
+In `baserow_api/data.ipynb`, we can see the data in a more readable format.
 
 ### Setup
+
+Navigate to the `baserow_api` directory:
+
+```bash
+cd baserow_api
+```
 
 #### 1. Install Dependencies
 
@@ -48,7 +55,7 @@ BASEROW_OUTPUT_DIR=data/snapshots
 
 #### Run the Fetcher
 
-Run the script using `python3`:
+Ensure you are in the `baserow_api` directory:
 
 ```bash
 python3 scripts/baserow/fetch_baserow_tables.py
