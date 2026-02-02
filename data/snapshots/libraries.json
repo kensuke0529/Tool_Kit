@@ -1,0 +1,528 @@
+[
+  {
+    "id": 1,
+    "order": "1.00000000000000000000",
+    "field_6972530": "Export as CSV",
+    "field_6972531": "Exports data as .csv file -some tools also give options for what delimiter to use and whether to include headers",
+    "field_6972836": "2026-01-28T20:47:19.072619Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [],
+    "field_7014493": "353ac2f7-0d04-4659-b522-35ad6cc0a344",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": [
+      {
+        "id": 133,
+        "value": "Export Options",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 2,
+    "order": "2.00000000000000000000",
+    "field_6972530": "Export as Word",
+    "field_6972531": "Exports data as Word file - somewhat more rare of an option, and the formatting can be wonky",
+    "field_6972836": "2026-01-28T20:47:25.269964Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [],
+    "field_7014493": "eac9324f-b73a-4c40-940d-78b4a9bda8d6",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": [
+      {
+        "id": 133,
+        "value": "Export Options",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 34,
+    "order": "3.00000000000000000000",
+    "field_6972530": "Export as PDF",
+    "field_6972531": "Exports data as PDF, fairly common option, but less flexible",
+    "field_6972836": "2026-01-28T20:47:25.710858Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 34,
+        "value": "Kindsight",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "field_7014493": "ec6ce0f6-d593-441d-92f5-e4878a47dfec",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": [
+      {
+        "id": 133,
+        "value": "Export Options",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 35,
+    "order": "4.00000000000000000000",
+    "field_6972530": "Export as Excel",
+    "field_6972531": "Exports data as .xlsx, sometimes with additional formatting options",
+    "field_6972836": "2026-01-28T20:47:26.143919Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [],
+    "field_7014493": "12ed96ca-ce75-41f7-a579-ba3add82c92c",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": [
+      {
+        "id": 133,
+        "value": "Export Options",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 36,
+    "order": "5.00000000000000000000",
+    "field_6972530": "Import CSV",
+    "field_6972531": "Platform allows a specialized query where the user imports a .csv file (following the platform's instructions or using a template they provide) and can cross compare dozens or even hundreds of rows with database information",
+    "field_6972836": "2026-01-27T18:36:27.619399Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [],
+    "field_7014493": "ed7c43d1-f570-4d89-9ae0-681ebf002389",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 37,
+    "order": "6.00000000000000000000",
+    "field_6972530": "Query Wildcards",
+    "field_6972531": "Specialized form of command line or search bar query - sometimes paired with other limiters (e.g. AND).",
+    "field_6972836": "2026-01-28T20:27:25.415897Z",
+    "field_6972837": [],
+    "field_6972839": [
+      {
+        "id": 1,
+        "value": "Goldilocks Query",
+        "order": "1.00000000000000000000"
+      }
+    ],
+    "field_6981408": [
+      {
+        "id": 1,
+        "value": "Too-Narrow Query",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 2,
+        "value": "Too-Broad Query",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "field_7001781": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014493": "aba97466-2e5c-45cd-b14a-f43aaab59670",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": [
+      {
+        "id": 100,
+        "value": "Advanced Search",
+        "order": "21.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 39,
+    "order": "8.00000000000000000000",
+    "field_6972530": "Alerts",
+    "field_6972531": "Generally includes the ability to create notifications by email, within the platform, or RSS feed for specific kinds of items (e.g. a search). Some platforms let you share alerts with other users, or let people subscribe to a collection of alerts.",
+    "field_6972836": "2026-01-27T19:32:31.600143Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [
+      {
+        "id": 34,
+        "value": "Notification Bombardment",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001781": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Nexis Uni",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "field_7014493": "ee9bdb49-071a-41cc-9a04-dbe5035bfa46",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 40,
+    "order": "9.00000000000000000000",
+    "field_6972530": "AI Summary",
+    "field_6972531": "Highly variable feature, but when well-designed: cites sources, uses neutral language, no hallucinations",
+    "field_6972836": "2026-01-27T19:44:26.541669Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 34,
+        "value": "Kindsight",
+        "order": "34.00000000000000000000"
+      }
+    ],
+    "field_7014493": "0646b410-edd3-45ca-92f5-1ec04f47912a",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 41,
+    "order": "10.00000000000000000000",
+    "field_6972530": "Integrations",
+    "field_6972531": "Often sit behind paywalls, and require an IT team to configure. They also often do not work with the full CRM, instead, many companies have institutions submit batches that they can process.",
+    "field_6972836": "2026-01-27T19:51:20.175309Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [
+      {
+        "id": 35,
+        "value": "Integration Choke-point",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "field_7001781": [],
+    "field_7014493": "44dc54bb-ad92-44c7-8fee-475863764050",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 42,
+    "order": "11.00000000000000000000",
+    "field_6972530": "Web Scraping",
+    "field_6972531": "Many tools benefit indirectly from web scraping. This feature is about explicit web scraping, with specific sources",
+    "field_6972836": "2026-01-27T21:34:51.871667Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 56,
+        "value": "Octoparse",
+        "order": "56.00000000000000000000"
+      }
+    ],
+    "field_7014493": "2e53571f-3ffe-4483-8487-5056ff1d2a44",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 44,
+    "order": "13.00000000000000000000",
+    "field_6972530": "People Lookups",
+    "field_6972531": "Highly variable, but often means searching by name, address, or other identifying datapoint",
+    "field_6972836": "2026-01-27T21:37:07.955446Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [],
+    "field_7014493": "aed902ab-1d34-4e05-9ae1-de185f58a876",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 45,
+    "order": "14.00000000000000000000",
+    "field_6972530": "Company Lookups",
+    "field_6972531": "Highly variable across platforms, but often includes information like headquarters, company type, industry, and sometimes executive information",
+    "field_6972836": "2026-01-27T21:37:45.862557Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 16,
+        "value": "MergentOnline",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Factiva",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "field_7014493": "7d06f357-b1ec-45de-827f-2e5944b0514c",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 46,
+    "order": "15.00000000000000000000",
+    "field_6972530": "Folder Sharing",
+    "field_6972531": "Sharing folders of articles or content with other users",
+    "field_6972836": "2026-01-27T22:11:29.818432Z",
+    "field_6972837": [
+      {
+        "id": 4,
+        "value": "Company Name",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Nexis Uni",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "field_7014493": "5713aaff-9e7d-47c1-87dc-751381737356",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 47,
+    "order": "16.00000000000000000000",
+    "field_6972530": "Folders and Favorites",
+    "field_6972531": "Bookmarking favorite searches, articles, or affiliate databases. May seem like a basic feature, but it all depends on what features are included in the subscription vs. the lowest free tier.",
+    "field_6972836": "2026-01-27T21:39:09.011319Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Nexis Uni",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "field_7014493": "654ae792-f70a-4e74-8589-04a62b2f3d47",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 48,
+    "order": "17.00000000000000000000",
+    "field_6972530": "Alert sharing",
+    "field_6972531": "Similar to folder sharing, sharing alerts means that interested parties can join the analyst in proactive monitoring",
+    "field_6972836": "2026-01-27T21:40:44.300968Z",
+    "field_6972837": [],
+    "field_6972839": [
+      {
+        "id": 2,
+        "value": "Proactive Monitoring",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 100,
+        "value": "Nexis Uni",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "field_7014493": "c8e852fb-fa59-428d-b3b0-c4cb1873a502",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 67,
+    "order": "18.00000000000000000000",
+    "field_6972530": "Wire Feeds",
+    "field_6972531": "Press releases, a specific category of newspaper article that is often used to create timelines of companies and their executives, wire feeds don't always pull up cleanly in AI tools.",
+    "field_6972836": "2026-01-27T21:43:33.734145Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 16,
+        "value": "MergentOnline",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Factiva",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Nexis Uni",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "field_7014493": "9f66138b-acd5-4fa3-a7c7-759f53b7b096",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 68,
+    "order": "19.00000000000000000000",
+    "field_6972530": "General News",
+    "field_6972531": "Exactly what it sounds like, though often tailored somewhat.",
+    "field_6972836": "2026-01-27T21:44:51.260249Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 16,
+        "value": "MergentOnline",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Factiva",
+        "order": "46.00000000000000000000"
+      },
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 100,
+        "value": "Nexis Uni",
+        "order": "95.00000000000000000000"
+      }
+    ],
+    "field_7014493": "ed8943b6-81cf-4da3-9434-4a5e2f281620",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 69,
+    "order": "20.00000000000000000000",
+    "field_6972530": "Manually Sent Results Email",
+    "field_6972531": "Manual push to an email address, as opposed to an automated notification",
+    "field_6972836": "2026-01-27T20:28:31.873124Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 46,
+        "value": "Factiva",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "field_7014493": "fba76c2f-72c3-41f8-b887-4af6e6dd275b",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 100,
+    "order": "21.00000000000000000000",
+    "field_6972530": "Advanced Search",
+    "field_6972531": "Often offered as an option to give you more manual control over the query",
+    "field_6972836": "2026-01-28T20:26:22.925747Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [],
+    "field_7014493": "5719a9c6-52f1-4f5e-8125-6184c3e1f689",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 133,
+    "order": "22.00000000000000000000",
+    "field_6972530": "Export Options",
+    "field_6972531": "Varied options, some more comprehensive than others in terms of document type or software integration",
+    "field_6972836": "2026-01-28T20:48:02.908648Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014493": "08f025bc-f206-4a90-b22e-48d8f7663cb5",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": []
+  },
+  {
+    "id": 134,
+    "order": "23.00000000000000000000",
+    "field_6972530": "Cloud Saving",
+    "field_6972531": "Export option that lets you send the document to Google Drive, Microsoft One Drive, Google Classroom, etc",
+    "field_6972836": "2026-01-28T20:49:35.345154Z",
+    "field_6972837": [],
+    "field_6972839": [],
+    "field_6981408": [],
+    "field_7001781": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014493": "176a02eb-1339-4eab-a85f-8565ea079a7c",
+    "field_7014495": [],
+    "field_7014533": [],
+    "field_7025280": [
+      {
+        "id": 133,
+        "value": "Export Options",
+        "order": "22.00000000000000000000"
+      }
+    ]
+  }
+]

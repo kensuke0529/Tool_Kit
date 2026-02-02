@@ -1,0 +1,2499 @@
+[
+  {
+    "id": 3,
+    "order": "3.00000000000000000000",
+    "field_6972526": "X",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 132,
+        "value": "X Corp",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_6972713": [
+      {
+        "id": 5122298,
+        "value": "Social Media",
+        "color": "light-green"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:43.636443Z",
+    "field_6972727": "5ada842e-a40f-48dc-8bb3-f5614ec084ba",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 4,
+    "order": "4.00000000000000000000",
+    "field_6972526": "Instagram",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 133,
+        "value": "Meta Platforms",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "field_6972713": [
+      {
+        "id": 5122298,
+        "value": "Social Media",
+        "color": "light-green"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:44.275329Z",
+    "field_6972727": "5071de5b-900c-4937-b8aa-4e999e0ec628",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 5,
+    "order": "5.00000000000000000000",
+    "field_6972526": "LinkedIn",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 134,
+        "value": "Microsoft",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "field_6972713": [
+      {
+        "id": 5122298,
+        "value": "Social Media",
+        "color": "light-green"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:44.779554Z",
+    "field_6972727": "f0bbf170-2393-4ffa-99aa-6cbf4a7a79e8",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 6,
+    "order": "6.00000000000000000000",
+    "field_6972526": "Facebook",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 133,
+        "value": "Meta Platforms",
+        "order": "4.00000000000000000000"
+      }
+    ],
+    "field_6972713": [
+      {
+        "id": 5122298,
+        "value": "Social Media",
+        "color": "light-green"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:45.277499Z",
+    "field_6972727": "3bcc7522-d0fb-4249-9b24-91004082806a",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 7,
+    "order": "7.00000000000000000000",
+    "field_6972526": "Bitwarden",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 135,
+        "value": "Bitwarden Inc.",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": "0",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:45.963823Z",
+    "field_6972727": "4f6512a2-0f98-4132-a79f-ebd82c55e4c2",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 8,
+    "order": "8.00000000000000000000",
+    "field_6972526": "DonorSearch",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:46.878344Z",
+    "field_6972727": "3c8cc4f3-0478-4291-9798-717078d8ad92",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 9,
+    "order": "9.00000000000000000000",
+    "field_6972526": "AlumniFinder",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:47.364330Z",
+    "field_6972727": "e6516e93-3167-4609-a555-2e0f5fc04355",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 10,
+    "order": "10.00000000000000000000",
+    "field_6972526": "Ellucian",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:48.046220Z",
+    "field_6972727": "41c9b1ac-7943-4c16-8661-fb64984bca94",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 11,
+    "order": "11.00000000000000000000",
+    "field_6972526": "Salesforce",
+    "field_6972527": "Ascend is one popular solution but there are others built on top of the Salesforce platform as well",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:48.979387Z",
+    "field_6972727": "b7a0c4b6-c81b-483f-a174-7b03ce6d4e51",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 12,
+    "order": "12.00000000000000000000",
+    "field_6972526": "Raiser's Edge NXT",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 140,
+        "value": "Blackbaud",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:49.487916Z",
+    "field_6972727": "e0c0b4d3-40c7-4ace-8429-183c5b29147f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 13,
+    "order": "13.00000000000000000000",
+    "field_6972526": "ResearchPoint",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 140,
+        "value": "Blackbaud",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:49.993557Z",
+    "field_6972727": "daa57c0d-b4c7-48ad-8bee-c2a64e11c30d",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 14,
+    "order": "14.00000000000000000000",
+    "field_6972526": "Kaleidoscope",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:50.445153Z",
+    "field_6972727": "5c4b20fa-7be9-4ceb-94c7-d59cc14540fc",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 15,
+    "order": "15.00000000000000000000",
+    "field_6972526": "Almaconnect",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:51.115031Z",
+    "field_6972727": "c2443357-b86e-475b-8310-3165f95f0d09",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 16,
+    "order": "16.00000000000000000000",
+    "field_6972526": "MergentOnline",
+    "field_6972527": "Replacing the old Mergent Intellect service but does the same thing. Better for public companies.\\\n\\\nMergent Online is an online business and financial information database designed for company and industry research. It includes extensive textual and structured data on both U.S. and international companies, such as full company profiles, business descriptions, histories, financial statements (annual and quarterly), executive and director details, ownership information, SEC filings, and access to archived annual reports and financials. The platform supports advanced search and reporting tools that allow users to retrieve, customize, and export data for analysis, comparison, and reporting. Its content is updated regularly and is used by researchers, financial analysts, investors, and academic institutions for comprehensive fundamental research.",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 143,
+        "value": "MergentOnline",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T20:23:23.102329Z",
+    "field_6972727": "7c70d86b-5f77-428c-986f-765fb4dce959",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [
+      {
+        "id": 45,
+        "value": "Company Lookups",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Wire Feeds",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "General News",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "field_7001840": [],
+    "field_7002513": "Mergent Online is a subscription-based financial research database that provides detailed company profiles, historical and current financial data, annual reports, executive information, and other business-related content for public and private companies worldwide.",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 17,
+    "order": "17.00000000000000000000",
+    "field_6972526": "SalesNavigator",
+    "field_6972527": "LinkedIn Sales Navigator is a paid sales prospecting and relationship-management platform designed to help sales professionals identify, research, and engage potential customers using LinkedIn data and insights. It provides advanced search and filtering to target prospects by criteria such as role, seniority, industry, company size, and geography; tools to save leads and accounts and receive alerts on job changes or company activity; InMail messaging to contact users outside one’s direct network; lead and account recommendations based on usage patterns; and integrations with CRM systems to support structured sales workflows and pipeline management.",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 134,
+        "value": "Microsoft",
+        "order": "5.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T22:14:03.246605Z",
+    "field_6972727": "c640c416-6b9b-4e89-b3a1-274325bdb701",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "LinkedIn Sales Navigator is a subscription-based sales prospecting and lead-management tool that helps sales professionals find, track, and engage potential customers using LinkedIn’s network and insights.",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 18,
+    "order": "18.00000000000000000000",
+    "field_6972526": "Insightful",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:53.704021Z",
+    "field_6972727": "03a0f659-5ff5-4ebc-89d0-5fc336fffafe",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 19,
+    "order": "19.00000000000000000000",
+    "field_6972526": "Wallbrook",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122223,
+        "value": "Due Dilligence",
+        "color": "light-cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:54.202197Z",
+    "field_6972727": "784d9818-fe2f-4f43-aa1b-9b0644cbd0de",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 20,
+    "order": "20.00000000000000000000",
+    "field_6972526": "Cotality",
+    "field_6972527": "Potentially helpful to understand their data market places and how they sit within the larger landcscape of real estate data brokers however their intended product audience are other companies with cloud infastructure to process real estate data or build apps not direct to consumer. Useful to understand them if one were to attempt to build a competitor to something like iWave and you need to pay for data.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:28.483140Z",
+    "field_6972727": "481b0281-8ffe-4920-b12d-6493cc7d2bb9",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 21,
+    "order": "21.00000000000000000000",
+    "field_6972526": "Jira",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:54.660053Z",
+    "field_6972727": "f3276037-9589-4a94-ac3c-b41b53be2e3f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 22,
+    "order": "22.00000000000000000000",
+    "field_6972526": "Asana",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:55.174438Z",
+    "field_6972727": "23194635-7638-42f0-9a48-54dfe5a9916b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 23,
+    "order": "23.00000000000000000000",
+    "field_6972526": "Trello",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:55.698559Z",
+    "field_6972727": "6202c849-7256-4bab-95f6-423689a34246",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 24,
+    "order": "24.00000000000000000000",
+    "field_6972526": "Zendesk",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:56.343030Z",
+    "field_6972727": "11b2b786-b2c1-4bc9-90be-793a63bc0c9f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 25,
+    "order": "25.00000000000000000000",
+    "field_6972526": "ClickUp",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:57.496546Z",
+    "field_6972727": "dc2907ea-30fc-47cd-96d7-de054d46543a",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 26,
+    "order": "26.00000000000000000000",
+    "field_6972526": "LexisNexis",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:58.133110Z",
+    "field_6972727": "5891eed3-911f-4c54-93a6-be60fdc50cd7",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 27,
+    "order": "27.00000000000000000000",
+    "field_6972526": "PowerBI",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:44:58.727047Z",
+    "field_6972727": "b5da0009-886d-458c-ae66-debd97028b82",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 28,
+    "order": "28.00000000000000000000",
+    "field_6972526": "Tableau",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:01.694892Z",
+    "field_6972727": "6e08ed3c-b96d-4c11-857b-eb0f0ebcf98c",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 30,
+    "order": "30.00000000000000000000",
+    "field_6972526": "Excel",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:02.310132Z",
+    "field_6972727": "d66e05c5-6d91-4663-a1ff-02ea6193523b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 31,
+    "order": "31.00000000000000000000",
+    "field_6972526": "Google Alerts",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": "0",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:03.339300Z",
+    "field_6972727": "81de5524-a519-4d70-896a-63c51fd5237f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 32,
+    "order": "32.00000000000000000000",
+    "field_6972526": "Talkwalker",
+    "field_6972527": "Hootsuite bought talkwalker in 2024, branding it as \"Hootsuite Listening powered by Talkwalker\"",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": "0",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:04.015854Z",
+    "field_6972727": "f09f26af-acc4-4760-bf35-7dcd9b171e9f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 33,
+    "order": "33.00000000000000000000",
+    "field_6972526": "Obsidian",
+    "field_6972527": "Useful as a research notebook because of it's features security (offline mode) and searchability within and between notes. The prospect research toolkit will eventually build a plug for Obsidian that is inteded to be helpful for taking notes while researching.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": "0",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:28.976799Z",
+    "field_6972727": "f17ef91d-1894-4dad-8f39-c503813e6d4c",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 34,
+    "order": "34.00000000000000000000",
+    "field_6972526": "Kindsight",
+    "field_6972527": "$4150 for 1 license, 1500 screens 750 live profiles. 3 users starts at $5350",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": "4150",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:29.460700Z",
+    "field_6972727": "1039f493-0b9a-47b1-9891-deae375e300f",
+    "field_6972821": [],
+    "field_7001780": [
+      {
+        "id": 34,
+        "value": "Export as PDF",
+        "order": "3.00000000000000000000"
+      },
+      {
+        "id": 40,
+        "value": "AI Summary",
+        "order": "9.00000000000000000000"
+      }
+    ],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 35,
+    "order": "35.00000000000000000000",
+    "field_6972526": "BVResources.com",
+    "field_6972527": "Has some free items and provides interesting context for market valuation as a field. Business Valuation is a tricky subject in prospect research, because the value of a business does not necessarily reflect any specific wealth in associated individuals - but business valuation research is still valuable for a number of other use-cases beyond capacity and I need to flesh them out on this website. Small, privately held company.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122226,
+        "value": "Company Info",
+        "color": "dark-red"
+      }
+    ],
+    "field_6972724": "1750",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:30.468652Z",
+    "field_6972727": "b7db5277-e4b9-4196-8e60-7b9a28a99434",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 36,
+    "order": "36.00000000000000000000",
+    "field_6972526": "Foundation Directory",
+    "field_6972527": "Many university libraries also have enterprise accounts and other large organizations can get a \"special rate\" but I haven't figured out what that is yet.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": "1599",
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:07.173900Z",
+    "field_6972727": "450769de-629d-4d0c-8c4c-dc118e84c2ca",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 37,
+    "order": "37.00000000000000000000",
+    "field_6972526": "EveryAction",
+    "field_6972527": "Bonterra also has a Fundraising and Engagement suite, EveryAction was acquired by Bonterra as part of a broader consolidaiton of nonprofit tech tools led by Bonterra and its investers",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:07.726288Z",
+    "field_6972727": "7b1eac38-83e1-4eda-9f4f-fb81117d1d3c",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 38,
+    "order": "38.00000000000000000000",
+    "field_6972526": "Humanitru",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:08.549080Z",
+    "field_6972727": "ef6e42c4-04ab-472b-8b56-a5786d9c1e48",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 39,
+    "order": "39.00000000000000000000",
+    "field_6972526": "AIdentified",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:09.345946Z",
+    "field_6972727": "960eb23e-3630-4d85-a5ee-f6624fc86e4c",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 40,
+    "order": "40.00000000000000000000",
+    "field_6972526": "ContactOut",
+    "field_6972527": "Chrome extension",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:09.851907Z",
+    "field_6972727": "8ba9a78c-0460-40a8-8dd5-0cb8189d7adf",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 41,
+    "order": "41.00000000000000000000",
+    "field_6972526": "White pages",
+    "field_6972527": "Good for phone numbers can be cross-checked with lexis or iWave, people also use usphonebook.com",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:10.621856Z",
+    "field_6972727": "27ec56f0-e550-43dd-946f-06845907a1d6",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 42,
+    "order": "42.00000000000000000000",
+    "field_6972526": "Hunter.io",
+    "field_6972527": "or emails (or competitors Snov.io or ZeroBounce or Bouncer) but hunter.io has a good free plan 25 searches a month, and 50 email vertifications which is better than rocket reach",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:13.476930Z",
+    "field_6972727": "c99b6bf4-fd6c-4599-bda7-52d8e3a35400",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 43,
+    "order": "43.00000000000000000000",
+    "field_6972526": "Code-fi",
+    "field_6972527": "International mentioned on PRSPCT-L",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:14.090799Z",
+    "field_6972727": "d649805a-275f-4cf1-a689-573be6144da7",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 44,
+    "order": "44.00000000000000000000",
+    "field_6972526": "Altrata",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:14.547584Z",
+    "field_6972727": "fefd7120-ea5a-4a83-b7ff-2d4e41dfdbac",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 45,
+    "order": "45.00000000000000000000",
+    "field_6972526": "Xapien",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122223,
+        "value": "Due Dilligence",
+        "color": "light-cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:14.998910Z",
+    "field_6972727": "ecad401f-ac16-4aa2-bfc4-daa0c1c79106",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 46,
+    "order": "46.00000000000000000000",
+    "field_6972526": "Factiva",
+    "field_6972527": "Factiva is a business information and research platform that aggregates global news company data and market intelligence from thousands of sources. Corporate subsidiary family trees executive lists and stock information (with links to paperwork) recent news querying and you can follow their source update page to see exactly which sources are being used discontinued etc. Good for big companies where the research question needs to dive in and understand subsidiaries or the overarching nature of the business",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 237,
+        "value": "Dow Jones",
+        "order": "108.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T20:25:22.580655Z",
+    "field_6972727": "89e8b67e-b327-4d92-b994-fa93a10d82f1",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [
+      {
+        "id": 45,
+        "value": "Company Lookups",
+        "order": "14.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Wire Feeds",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "General News",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 69,
+        "value": "Manually Sent Results Email",
+        "order": "20.00000000000000000000"
+      }
+    ],
+    "field_7001840": [],
+    "field_7002513": "Factiva is a subscription-based business intelligence platform that provides access to global news, company information, industry data, and market insights from a wide range of licensed sources.",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": [
+      {
+        "id": 1,
+        "value": "1",
+        "order": "1.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 47,
+    "order": "47.00000000000000000000",
+    "field_6972526": "FactSet Research Systems",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:18.693693Z",
+    "field_6972727": "e4669e8a-e19b-418e-ba45-41fa85b7e332",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 48,
+    "order": "48.00000000000000000000",
+    "field_6972526": "Mergent Intellect",
+    "field_6972527": "Extensive business info but Mergent Intellect arguably has one of the best executive searches letting you export files with hundreds of executives including their company phone number",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 143,
+        "value": "MergentOnline",
+        "order": "14.00000000000000000000"
+      }
+    ],
+    "field_6972713": [
+      {
+        "id": 5122226,
+        "value": "Company Info",
+        "color": "dark-red"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:20.517539Z",
+    "field_6972727": "529b304d-8a2f-47ff-90b7-a005318a3ae0",
+    "field_6972821": [
+      {
+        "id": 2,
+        "value": "Salt Lake Community College",
+        "order": "2.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 49,
+    "order": "49.00000000000000000000",
+    "field_6972526": "PitchBook",
+    "field_6972527": "PitchBook allows you to search private equity and investors venture capital deals, and information on mergers and acquisitions. Using real time data their emerging spaces feature discloses upcoming investor trends and the market map feature allows you to map out existing or emerging markets",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122226,
+        "value": "Company Info",
+        "color": "dark-red"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T12:21:06.811180Z",
+    "field_6972727": "d1ad2ce8-4f9d-4b59-adb7-c03e69664943",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "PitchBook is a financial data platform used by university libraries to provide detailed information on venture capital, private equity, and merger and acquisition activity across the private and public markets.",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 50,
+    "order": "50.00000000000000000000",
+    "field_6972526": "PrivCo",
+    "field_6972527": "PrivCo is a source for business and financial data on non-publicly traded corporations including family owned private equity owned venture backed and international unlisted companies.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122226,
+        "value": "Company Info",
+        "color": "dark-red"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:21.748635Z",
+    "field_6972727": "2723ae23-fb19-4af7-a5f6-fc8cf3e0ef91",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 51,
+    "order": "51.00000000000000000000",
+    "field_6972526": "ProspectAI",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:32.387926Z",
+    "field_6972727": "c01cf59f-3286-4654-907a-2c625902e80e",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 52,
+    "order": "52.00000000000000000000",
+    "field_6972526": "ResearchRiley",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:23.711067Z",
+    "field_6972727": "3f176942-20c4-4001-8717-ab356a9dcde1",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 53,
+    "order": "53.00000000000000000000",
+    "field_6972526": "Assay",
+    "field_6972527": "from website: https://geisgetsresults.com/assay/ Assay’s algorithm evaluates and weighs Key Performance Indicators (KPIs). Assay provides a propensity score which helps you target the right donors and select appropriate tactics for donor development.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:31.913748Z",
+    "field_6972727": "a1b33dfc-b440-4fc2-88a6-0d27ac49af0a",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 54,
+    "order": "54.00000000000000000000",
+    "field_6972526": "Radar",
+    "field_6972527": "Probably overkill for due dilligence however it has an alert system that could be useful if reputational hazards are a high priority. It seems intended more for law firms hoping to find new clients and keep track of ongoing cindustry info and it's unclear if anyone in fundraising uses Radar for this purpose. My guess is it's too expensive for a more rare use-case and other tools (like the legal side of Lexis) maybe do a better job or are more familiar. A free trial is available though!",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122223,
+        "value": "Due Dilligence",
+        "color": "light-cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:32.857816Z",
+    "field_6972727": "c8e65d56-c962-4d7a-bc50-b4a771b95ec8",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 55,
+    "order": "55.00000000000000000000",
+    "field_6972526": "ScraperApi",
+    "field_6972527": "Good info on web scraping which is legal for public information as long as you abide by terms of service. Scraper api is an example of a paid resource for this but there are other options as well and almost all have free trials.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:26.601853Z",
+    "field_6972727": "da083399-966e-4811-812b-ab0820e31be6",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 56,
+    "order": "56.00000000000000000000",
+    "field_6972526": "Octoparse",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:27.116459Z",
+    "field_6972727": "aa1568f1-fe3e-4ef2-b847-6568745b792b",
+    "field_6972821": [],
+    "field_7001780": [
+      {
+        "id": 42,
+        "value": "Web Scraping",
+        "order": "11.00000000000000000000"
+      }
+    ],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 57,
+    "order": "57.00000000000000000000",
+    "field_6972526": "Loopnet",
+    "field_6972527": "Some free options. The usecase for this one is a little odd: if you want to check on the status of a company understanding if the commercial space is up for sale might offer some clues that are otherwise invisible at other sources. ",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:27.611520Z",
+    "field_6972727": "21c8f4f7-48c2-4201-95cf-24525934874b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 58,
+    "order": "58.00000000000000000000",
+    "field_6972526": "DonorPerfect",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:28.355818Z",
+    "field_6972727": "7ab67c83-af2d-43b0-bda4-d4ec1fc8d269",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 59,
+    "order": "59.00000000000000000000",
+    "field_6972526": "DonorAtlas",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:28.833915Z",
+    "field_6972727": "3a3d9daa-4e74-43a6-9569-1cd04eceb77c",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 60,
+    "order": "60.00000000000000000000",
+    "field_6972526": "WealthEngine",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:32.638746Z",
+    "field_6972727": "0c95b377-f253-4ea2-9a84-69a00929bc74",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 61,
+    "order": "61.00000000000000000000",
+    "field_6972526": "Windfall",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:33.349862Z",
+    "field_6972727": "1f2b086b-eff8-4c37-b345-d5c6474eba3b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 62,
+    "order": "62.00000000000000000000",
+    "field_6972526": "DatabaseUSA",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:33.865880Z",
+    "field_6972727": "9d2c04ed-d322-4f5b-a9ca-21d0bfaab309",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 63,
+    "order": "63.00000000000000000000",
+    "field_6972526": "Dun & Bradstreet ",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:34.561162Z",
+    "field_6972727": "d076dbc7-7717-40c9-8f88-d57d5c0939a3",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 64,
+    "order": "64.00000000000000000000",
+    "field_6972526": "Edgar (SEC)",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:35.514624Z",
+    "field_6972727": "e6d3aa63-3b11-408e-933e-8721e974558b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 65,
+    "order": "65.00000000000000000000",
+    "field_6972526": "Larkspur",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:36.457896Z",
+    "field_6972727": "fc180031-57dc-40ca-8085-662a79ed2649",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 66,
+    "order": "66.00000000000000000000",
+    "field_6972526": "Monday.com",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:37.104962Z",
+    "field_6972727": "7964faae-d72a-466d-83e3-12f91049e4f8",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 67,
+    "order": "67.00000000000000000000",
+    "field_6972526": "Pipl.com",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:37.815611Z",
+    "field_6972727": "f720be78-47b3-414a-ad39-a21097b501f6",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 68,
+    "order": "68.00000000000000000000",
+    "field_6972526": "PowerQuery",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122224,
+        "value": "Data Analytics",
+        "color": "green"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:38.721243Z",
+    "field_6972727": "dca99f2c-2d82-4e86-9fa8-0c9b35ae2da8",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 69,
+    "order": "69.00000000000000000000",
+    "field_6972526": "Reclaim the Records",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:41.815080Z",
+    "field_6972727": "b4720b3a-f35a-4322-b156-d701d2e9bf4e",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 70,
+    "order": "70.00000000000000000000",
+    "field_6972526": "RelSci",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:42.331309Z",
+    "field_6972727": "79058a06-6caf-484b-ac27-fe6050533aba",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 72,
+    "order": "72.00000000000000000000",
+    "field_6972526": "Verigift",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:45.807736Z",
+    "field_6972727": "80affd42-7440-4f5b-a304-2058331589cc",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 73,
+    "order": "73.00000000000000000000",
+    "field_6972526": "Wealth-X",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:46.539633Z",
+    "field_6972727": "9845b3ad-f7c3-4412-9bb8-c6d9d0a7fe0b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 74,
+    "order": "74.00000000000000000000",
+    "field_6972526": "ZoomInfo",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:47.081562Z",
+    "field_6972727": "20403568-1fd8-4522-940c-92d2c0b796a0",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 75,
+    "order": "75.00000000000000000000",
+    "field_6972526": "TheOrg",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:50.783640Z",
+    "field_6972727": "7a9f2d6e-3f6b-4476-b2a0-fcd471a2c32b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 76,
+    "order": "76.00000000000000000000",
+    "field_6972526": "LittleSis",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122223,
+        "value": "Due Dilligence",
+        "color": "light-cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:51.339236Z",
+    "field_6972727": "41275521-255b-4c51-81a1-39d904930952",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 77,
+    "order": "77.00000000000000000000",
+    "field_6972526": "Maltego",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:51.897601Z",
+    "field_6972727": "16d6abc2-77ad-4a80-b048-dcffa536280f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 78,
+    "order": "78.00000000000000000000",
+    "field_6972526": "OpenCorporates",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:52.368447Z",
+    "field_6972727": "fb8edbbb-f942-4ddc-a954-adfed7f7e1ee",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 79,
+    "order": "79.00000000000000000000",
+    "field_6972526": "CorpWatch API",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:52.810161Z",
+    "field_6972727": "fa25a412-3178-4114-ace6-29ca01e69880",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 80,
+    "order": "80.00000000000000000000",
+    "field_6972526": "BuiltWith",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:53.395040Z",
+    "field_6972727": "ef0abaaf-69f1-41ee-b2d7-7c5463e2c7cf",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 81,
+    "order": "81.00000000000000000000",
+    "field_6972526": "Whois/ICANN Lookup",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:54.102079Z",
+    "field_6972727": "ceab6bfc-134f-421c-bc84-c0b11df4ef8b",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 82,
+    "order": "82.00000000000000000000",
+    "field_6972526": "Wayback Machine",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:55.053508Z",
+    "field_6972727": "4b351e21-d396-4ba8-ba13-490b3983962f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 83,
+    "order": "83.00000000000000000000",
+    "field_6972526": "ProQuest",
+    "field_6972527": "ProQuest has dozens of databases, and institutions can choose to subscribe to specialized periodical databases or just default to the \"central\" list. The ProQuest Central database is the largest single periodical resource available, bringing together complete databases across all major subject areas, including Business, Health and Medical, Social Sciences, Education, Science and Technology, and Humanities. Notably, press release wires and international reach.",
+    "field_6972586": "0",
+    "field_6972587": [
+      {
+        "id": 193,
+        "value": "Clarivate",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T20:12:22.550065Z",
+    "field_6972727": "b25eec0b-6a5b-4c8d-92fa-9619cd822b3f",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [
+      {
+        "id": 37,
+        "value": "Query Wildcards",
+        "order": "6.00000000000000000000"
+      },
+      {
+        "id": 39,
+        "value": "Alerts",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Folder Sharing",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "Folders and Favorites",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Wire Feeds",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "General News",
+        "order": "19.00000000000000000000"
+      },
+      {
+        "id": 133,
+        "value": "Export Options",
+        "order": "22.00000000000000000000"
+      },
+      {
+        "id": 134,
+        "value": "Cloud Saving",
+        "order": "23.00000000000000000000"
+      }
+    ],
+    "field_7001840": [],
+    "field_7002513": "ProQuest is a global information-content and technology company that provides academic libraries and researchers with access to a massive collection of digitized dissertations, historical newspapers, scholarly journals, and primary source documents.",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": [
+      {
+        "id": 2,
+        "value": "2",
+        "order": "2.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 84,
+    "order": "84.00000000000000000000",
+    "field_6972526": "DataAxle Reference Solutions",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:57.441201Z",
+    "field_6972727": "767746f2-3943-4944-b514-4f2018d3d4a4",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 85,
+    "order": "85.00000000000000000000",
+    "field_6972526": "Gephi",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:57.940910Z",
+    "field_6972727": "c3eeb2a7-1663-46ee-9906-32421c412b1a",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 86,
+    "order": "86.00000000000000000000",
+    "field_6972526": "Google Alerts",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:58.489492Z",
+    "field_6972727": "3b407768-5c64-4a1a-b875-b975235bb6c5",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 87,
+    "order": "87.00000000000000000000",
+    "field_6972526": "TikTok",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:45:59.831583Z",
+    "field_6972727": "04ce727e-7030-4b94-9a1d-642aa8302c4a",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 88,
+    "order": "88.00000000000000000000",
+    "field_6972526": "Crunchbase",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122226,
+        "value": "Company Info",
+        "color": "dark-red"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:00.947165Z",
+    "field_6972727": "0ab362ac-670b-4df2-9db8-c23ec6c2f50f",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 89,
+    "order": "89.00000000000000000000",
+    "field_6972526": "Lucidchart",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:02.969637Z",
+    "field_6972727": "039d52df-fc4f-44fc-aa20-d16be33719f3",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 90,
+    "order": "90.00000000000000000000",
+    "field_6972526": "OpenSecrets",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:03.752926Z",
+    "field_6972727": "4557d813-63a5-4c33-afb6-7a3ff4bdbe36",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 91,
+    "order": "91.00000000000000000000",
+    "field_6972526": "Statista",
+    "field_6972527": "",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:04.437675Z",
+    "field_6972727": "8da5ed2f-ccd9-4b0d-9e69-8fc267ce1855",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 92,
+    "order": "92.00000000000000000000",
+    "field_6972526": "ValueLine",
+    "field_6972527": "Helpful to understand industry market movers or big public companies. The most relevant datapoint for prospect research is the company financial health letter grade the ValueLine analysts provide in the bottom right corner of the ValueLine Investment Survey pdf - could be useful in an overview (e.g. A- financial health) or as a bullet point for supplemental descriptions of a company. Otherwise quite limited for prospect research. ",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122226,
+        "value": "Company Info",
+        "color": "dark-red"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:33.844084Z",
+    "field_6972727": "08b6853b-4000-498e-a034-dc4208345e47",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 93,
+    "order": "93.00000000000000000000",
+    "field_6972526": "TheOfficialBoard",
+    "field_6972527": "Surprisingly robust free options and pretty cheap paid ones honestly seems like a hidden gem. Limits its reach to public companies. From the probably outdated Wikipedia page: The Official Board is a France-based online contact database. The database maintains up-to-date corporate organizational and data charts for all the world's private and public companies exceeding $100 million in revenue which includes over 50,000 companies. The data is updated by industry experts and members of the site and is verified by each company. It is used to research organizational structures and find contact information for corporate executives.\n\nThe Official Board was founded by Amazon and Apple Inc. executive Thomas Lot in 2009. ",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:56.470166Z",
+    "field_6972727": "26697696-177c-47bc-8a10-c6ef93244be4",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 94,
+    "order": "94.00000000000000000000",
+    "field_6972526": "Salutary Data",
+    "field_6972527": "Supplies contact information for tools like Nexis Uni. Details from Pitchbook: Provider of business data services intended for businesses to connect. The company offers data including postal codes phone numbers email name title and company details. Founded in 2015. I have accessed their reports via Nexis Uni and their \"biographies\" include compensation information as well as job titles and LinkedIn URLs. Nexis lets you download the Salutary Data reports as RTF or DOCX or PDF bundled or as separate files. Unsure of how they source their information but those two data points: compensation and LinkedIn URL are interesting.",
+    "field_6972586": "0",
+    "field_6972587": [],
+    "field_6972713": [
+      {
+        "id": 5122225,
+        "value": "Data Broker",
+        "color": "cyan"
+      }
+    ],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T04:51:59.857316Z",
+    "field_6972727": "3ae7a246-17c9-47f2-abb4-4060d7628285",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 176,
+    "order": "94.50000000000000000000",
+    "field_6972526": "",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:47:16.625882Z",
+    "field_6972727": "1f80cd77-92fd-4426-8abc-55317326e854",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including over 15,000 news and business sources.",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 100,
+    "order": "95.00000000000000000000",
+    "field_6972526": "Nexis Uni",
+    "field_6972527": "Essentially the same tool as LexisNexis, one of the variants. Law enforcement has their own variant, for example. Nexis Uni is the one scoped for college-level research and emphasizes the breadth of its legal sources. Unlike Nexis for Development Professionals, you cannot look up the personal info of specific people. It may be drawing from many of the same sources as ProQuest for its news articles, though how they stack up against each other has not yet been explored in this toolkit. Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including all federal and state case law, regulations, statutes and many legal journals. Nexis Uni also contains over 15,000 news and business sources.",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:53.874342Z",
+    "field_6972727": "95c3eb1f-1c4f-42ca-af33-78060ee143af",
+    "field_6972821": [
+      {
+        "id": 1,
+        "value": "Utah State University",
+        "order": "1.00000000000000000000"
+      },
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [
+      {
+        "id": 39,
+        "value": "Alerts",
+        "order": "8.00000000000000000000"
+      },
+      {
+        "id": 46,
+        "value": "Folder Sharing",
+        "order": "15.00000000000000000000"
+      },
+      {
+        "id": 47,
+        "value": "Folders and Favorites",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "Alert sharing",
+        "order": "17.00000000000000000000"
+      },
+      {
+        "id": 67,
+        "value": "Wire Feeds",
+        "order": "18.00000000000000000000"
+      },
+      {
+        "id": 68,
+        "value": "General News",
+        "order": "19.00000000000000000000"
+      }
+    ],
+    "field_7001840": [],
+    "field_7002513": "Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including over 15,000 news and business sources.",
+    "field_7002514": [
+      {
+        "id": 5138934,
+        "value": "affiliate-database",
+        "color": "orange"
+      }
+    ],
+    "field_7002515": [
+      {
+        "id": 26,
+        "value": "LexisNexis",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "field_7014254": []
+  },
+  {
+    "id": 101,
+    "order": "96.00000000000000000000",
+    "field_6972526": "Newspapers Source",
+    "field_6972527": "Newspaper Source provides cover-to-cover full text for more than 40 national (U.S.) and international newspapers, including the *The Sunday Times*, *USA Today*, *The Washington Post*, *The Arizona Daily Star*, *The Wyoming Tribune-Eagle*, *Minneapolis Star Tribune*, and more. The database also contains a selection of full-text television & radio news transcripts from CBS News, CNN, FOX News, NPR, and others",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:37:49.081077Z",
+    "field_6972727": "3465fc1e-eb32-4800-b4bc-3c05ad45cb6e",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 102,
+    "order": "97.00000000000000000000",
+    "field_6972526": "Newspapers.com",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:09.454950Z",
+    "field_6972727": "5c77eab0-4bcb-480a-a365-35af73226ccb",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 103,
+    "order": "98.00000000000000000000",
+    "field_6972526": "BCC Research",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:09.972312Z",
+    "field_6972727": "46cca280-df4c-4154-afc3-9faf98d2773f",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [],
+    "field_7014254": []
+  },
+  {
+    "id": 175,
+    "order": "99.00000000000000000000",
+    "field_6972526": "ProQuest One Business",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [
+      {
+        "id": 193,
+        "value": "Clarivate",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:46:32.635002Z",
+    "field_6972727": "2260d066-6d64-4174-9e71-3625e1eed9f7",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "The comprehensive flagship platform for business articles, though many institutions still pay for individual databases that feed into this aggregator.",
+    "field_7002514": [
+      {
+        "id": 5138934,
+        "value": "affiliate-database",
+        "color": "orange"
+      }
+    ],
+    "field_7002515": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014254": []
+  },
+  {
+    "id": 177,
+    "order": "100.00000000000000000000",
+    "field_6972526": "ProQuest ABI/Inform Collection",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [
+      {
+        "id": 193,
+        "value": "Clarivate",
+        "order": "64.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:50:03.445494Z",
+    "field_6972727": "68996483-09fb-404a-947b-b2fea2dfa20a",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [
+      {
+        "id": 5138934,
+        "value": "affiliate-database",
+        "color": "orange"
+      }
+    ],
+    "field_7002515": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014254": []
+  },
+  {
+    "id": 178,
+    "order": "101.00000000000000000000",
+    "field_6972526": "Nexis for Development Professionals",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [
+      {
+        "id": 151,
+        "value": "RELX",
+        "order": "22.00000000000000000000"
+      }
+    ],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T19:48:31.100457Z",
+    "field_6972727": "623df448-e3aa-4f09-961a-2221bf547565",
+    "field_6972821": [
+      {
+        "id": 3,
+        "value": "University of Utah",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "Nexis for Development Professionals is an online prospect research platform that supports fundraising by providing access to over 81 billion public records and 10,000+ data sources to identify high-potential donors, assess their wealth and giving capacity, and mitigate reputational risks.",
+    "field_7002514": [
+      {
+        "id": 5138934,
+        "value": "affiliate-database",
+        "color": "orange"
+      }
+    ],
+    "field_7002515": [
+      {
+        "id": 26,
+        "value": "LexisNexis",
+        "order": "26.00000000000000000000"
+      }
+    ],
+    "field_7014254": []
+  },
+  {
+    "id": 179,
+    "order": "102.00000000000000000000",
+    "field_6972526": "",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:50:50.677175Z",
+    "field_6972727": "d43d9179-dc7d-4e4e-89ba-2ac04e242dae",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014254": []
+  },
+  {
+    "id": 180,
+    "order": "103.00000000000000000000",
+    "field_6972526": "",
+    "field_6972527": "",
+    "field_6972586": null,
+    "field_6972587": [],
+    "field_6972713": [],
+    "field_6972724": null,
+    "field_6972725": "",
+    "field_6972726": "2026-01-27T11:50:49.584688Z",
+    "field_6972727": "7f2fa3b0-441a-4957-8c3c-1aa46d098738",
+    "field_6972821": [],
+    "field_7001780": [],
+    "field_7001840": [],
+    "field_7002513": "",
+    "field_7002514": [],
+    "field_7002515": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      }
+    ],
+    "field_7014254": []
+  }
+]

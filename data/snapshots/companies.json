@@ -1,0 +1,1533 @@
+[
+  {
+    "id": 132,
+    "order": "3.00000000000000000000",
+    "field_6972522": "X Corp",
+    "field_6972523": "",
+    "field_6972582": "7c1888b6-7e4b-47a8-9efa-780bd523dda9",
+    "field_6972584": "https://x.com",
+    "field_6972588": [
+      {
+        "id": 3,
+        "value": "X",
+        "order": "3.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 133,
+    "order": "4.00000000000000000000",
+    "field_6972522": "Meta Platforms",
+    "field_6972523": "",
+    "field_6972582": "f70799dd-3deb-4767-9eb5-6e49eeff916d",
+    "field_6972584": "https://about.meta.com",
+    "field_6972588": [
+      {
+        "id": 4,
+        "value": "Instagram",
+        "order": "4.00000000000000000000"
+      },
+      {
+        "id": 6,
+        "value": "Facebook",
+        "order": "6.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 134,
+    "order": "5.00000000000000000000",
+    "field_6972522": "Microsoft",
+    "field_6972523": "",
+    "field_6972582": "f3886d51-bb01-4db4-aa5e-53e4b74aafa6",
+    "field_6972584": "https://www.microsoft.com",
+    "field_6972588": [
+      {
+        "id": 5,
+        "value": "LinkedIn",
+        "order": "5.00000000000000000000"
+      },
+      {
+        "id": 17,
+        "value": "SalesNavigator",
+        "order": "17.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 135,
+    "order": "6.00000000000000000000",
+    "field_6972522": "Bitwarden Inc.",
+    "field_6972523": "",
+    "field_6972582": "f0f5fa7c-3647-4bb8-84b7-c7e501d54439",
+    "field_6972584": "https://bitwarden.com",
+    "field_6972588": [
+      {
+        "id": 7,
+        "value": "Bitwarden",
+        "order": "7.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 136,
+    "order": "7.00000000000000000000",
+    "field_6972522": "DonorSearch",
+    "field_6972523": "",
+    "field_6972582": "911395b3-90c3-4f8b-bfe0-f5191a8db420",
+    "field_6972584": "https://www.donorsearch.net",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 137,
+    "order": "8.00000000000000000000",
+    "field_6972522": "AlumniFinder",
+    "field_6972523": "",
+    "field_6972582": "540f0e80-85cb-4784-9c64-6d308f426bd4",
+    "field_6972584": "https://www.alumnifinder.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 138,
+    "order": "9.00000000000000000000",
+    "field_6972522": "Ellucian",
+    "field_6972523": "",
+    "field_6972582": "5806b010-a308-4108-b33c-7bfd08eb4a7b",
+    "field_6972584": "https://www.ellucian.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 139,
+    "order": "10.00000000000000000000",
+    "field_6972522": "Salesforce",
+    "field_6972523": "",
+    "field_6972582": "4587ae18-765d-4bd4-b182-57d62a7e6f11",
+    "field_6972584": "https://www.salesforce.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 140,
+    "order": "11.00000000000000000000",
+    "field_6972522": "Blackbaud",
+    "field_6972523": "",
+    "field_6972582": "358e46dd-3e3e-4775-b18f-e7f4f6513f3e",
+    "field_6972584": "https://www.blackbaud.com",
+    "field_6972588": [
+      {
+        "id": 12,
+        "value": "Raiser's Edge NXT",
+        "order": "12.00000000000000000000"
+      },
+      {
+        "id": 13,
+        "value": "ResearchPoint",
+        "order": "13.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 141,
+    "order": "12.00000000000000000000",
+    "field_6972522": "Kaleidoscope Inc.",
+    "field_6972523": "",
+    "field_6972582": "51cd049d-3757-4bf6-84fa-c2f270eb4686",
+    "field_6972584": "https://www.kaleidoscope.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 142,
+    "order": "13.00000000000000000000",
+    "field_6972522": "AlmaConnect",
+    "field_6972523": "",
+    "field_6972582": "b685ce3b-b326-4fe9-be1e-51072d0b459d",
+    "field_6972584": "https://www.almaconnect.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 143,
+    "order": "14.00000000000000000000",
+    "field_6972522": "MergentOnline",
+    "field_6972523": "",
+    "field_6972582": "cd46617a-12ae-4814-a416-01c3b7320886",
+    "field_6972584": "",
+    "field_6972588": [
+      {
+        "id": 16,
+        "value": "MergentOnline",
+        "order": "16.00000000000000000000"
+      },
+      {
+        "id": 48,
+        "value": "Mergent Intellect",
+        "order": "48.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 144,
+    "order": "15.00000000000000000000",
+    "field_6972522": "Insightful Inc.",
+    "field_6972523": "",
+    "field_6972582": "51ac935d-e1f9-4cc9-849a-0827df825554",
+    "field_6972584": "https://www.insightful.io",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 145,
+    "order": "16.00000000000000000000",
+    "field_6972522": "Wallbrook",
+    "field_6972523": "",
+    "field_6972582": "f906c854-7795-4f2d-8644-7a95834d48c7",
+    "field_6972584": "https://wallbrook.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 146,
+    "order": "17.00000000000000000000",
+    "field_6972522": "Cotality",
+    "field_6972523": "",
+    "field_6972582": "7752dc8b-7ebd-4a59-907a-7359bf6db258",
+    "field_6972584": "https://cotality.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 147,
+    "order": "18.00000000000000000000",
+    "field_6972522": "Atlassian",
+    "field_6972523": "",
+    "field_6972582": "41f9ce2b-da36-4e9c-b688-c1d824df94fb",
+    "field_6972584": "https://www.atlassian.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 148,
+    "order": "19.00000000000000000000",
+    "field_6972522": "Asana Inc.",
+    "field_6972523": "",
+    "field_6972582": "69c6454b-7525-463d-bfe5-9840d8c7c41a",
+    "field_6972584": "https://asana.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 149,
+    "order": "20.00000000000000000000",
+    "field_6972522": "Zendesk",
+    "field_6972523": "",
+    "field_6972582": "19edd82a-2a78-4ea8-b8dc-5633e616315f",
+    "field_6972584": "https://www.zendesk.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 150,
+    "order": "21.00000000000000000000",
+    "field_6972522": "ClickUp",
+    "field_6972523": "",
+    "field_6972582": "de3532a6-b7fb-4a76-8cdd-3bce2fcab71a",
+    "field_6972584": "https://clickup.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 151,
+    "order": "22.00000000000000000000",
+    "field_6972522": "RELX",
+    "field_6972523": "",
+    "field_6972582": "b09bfae6-c221-450e-bc71-6bd379ea3b33",
+    "field_6972584": "https://www.lexisnexis.com",
+    "field_6972588": [
+      {
+        "id": 178,
+        "value": "Nexis for Development Professionals",
+        "order": "101.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 152,
+    "order": "23.00000000000000000000",
+    "field_6972522": "Salesforce",
+    "field_6972523": "",
+    "field_6972582": "37acf181-5d7c-47f5-8c84-466a148fd34e",
+    "field_6972584": "https://www.tableau.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 153,
+    "order": "24.00000000000000000000",
+    "field_6972522": "Morningstar",
+    "field_6972523": "",
+    "field_6972582": "458baf6d-47ff-4b8b-8bf3-4d64418ec6f3",
+    "field_6972584": "https://pitchbook.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 154,
+    "order": "25.00000000000000000000",
+    "field_6972522": "Google",
+    "field_6972523": "",
+    "field_6972582": "8782b05a-f0d8-49af-802f-83d3cd3b5ba8",
+    "field_6972584": "https://www.google.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 155,
+    "order": "26.00000000000000000000",
+    "field_6972522": "Hootsuite",
+    "field_6972523": "",
+    "field_6972582": "141eb258-1d62-40ac-b261-d1e9a2b14cc6",
+    "field_6972584": "https://www.talkwalker.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 156,
+    "order": "27.00000000000000000000",
+    "field_6972522": "Obsidian Labs",
+    "field_6972523": "",
+    "field_6972582": "c43fea96-1842-4883-b3f5-a9337b9d405a",
+    "field_6972584": "https://obsidian.md",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 157,
+    "order": "28.00000000000000000000",
+    "field_6972522": "Kindsight",
+    "field_6972523": "",
+    "field_6972582": "80e38578-444c-40df-8252-322b4ec00c04",
+    "field_6972584": "https://www.kindsight.io",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 158,
+    "order": "29.00000000000000000000",
+    "field_6972522": "Candid",
+    "field_6972523": "",
+    "field_6972582": "597f0c43-429d-47ea-be81-2a596e5367bb",
+    "field_6972584": "https://candid.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 159,
+    "order": "30.00000000000000000000",
+    "field_6972522": "Bonterra",
+    "field_6972523": "",
+    "field_6972582": "58729fad-45d0-432f-9665-b5dd4ff5168b",
+    "field_6972584": "https://www.bonterratech.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 160,
+    "order": "31.00000000000000000000",
+    "field_6972522": "Humantru",
+    "field_6972523": "",
+    "field_6972582": "b1e57bc4-6c36-48ef-ae7a-8e433965b1f0",
+    "field_6972584": "https://humantru.co",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 161,
+    "order": "32.00000000000000000000",
+    "field_6972522": "Aidentified",
+    "field_6972523": "",
+    "field_6972582": "10865983-a55f-4ac6-974d-c4ef89674693",
+    "field_6972584": "https://www.aidentified.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 162,
+    "order": "33.00000000000000000000",
+    "field_6972522": "ContactOut",
+    "field_6972523": "",
+    "field_6972582": "3d311d77-8f1a-43dc-a36b-6fa7a4148626",
+    "field_6972584": "https://contactout.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 163,
+    "order": "34.00000000000000000000",
+    "field_6972522": "Whitepages",
+    "field_6972523": "",
+    "field_6972582": "c6162d1c-aa21-4d91-8b9b-e06864110186",
+    "field_6972584": "https://www.whitepages.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 164,
+    "order": "35.00000000000000000000",
+    "field_6972522": "Hunter",
+    "field_6972523": "",
+    "field_6972582": "ecf70791-4da2-4030-aee6-658a7c18b382",
+    "field_6972584": "https://hunter.io",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 165,
+    "order": "36.00000000000000000000",
+    "field_6972522": "Pyro Solutions",
+    "field_6972523": "",
+    "field_6972582": "f15f21e4-07d4-4935-8353-1030a6265769",
+    "field_6972584": "https://www.pyrosolutions.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 166,
+    "order": "37.00000000000000000000",
+    "field_6972522": "Altrata",
+    "field_6972523": "",
+    "field_6972582": "0da32f79-c552-46a5-b467-cbfefd3ab03e",
+    "field_6972584": "https://www.altrata.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 167,
+    "order": "38.00000000000000000000",
+    "field_6972522": "Xapien",
+    "field_6972523": "",
+    "field_6972582": "f24b96ab-1800-4b53-8785-37beac883833",
+    "field_6972584": "https://www.xapien.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 168,
+    "order": "39.00000000000000000000",
+    "field_6972522": "FactSet",
+    "field_6972523": "",
+    "field_6972582": "6d0fa38c-a05d-4d92-87fe-5f26cf5847bb",
+    "field_6972584": "https://www.factset.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 169,
+    "order": "40.00000000000000000000",
+    "field_6972522": "PrivCo",
+    "field_6972523": "",
+    "field_6972582": "f9c3e1bb-4fc7-46f2-a29a-65a15886555a",
+    "field_6972584": "https://www.privco.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 170,
+    "order": "41.00000000000000000000",
+    "field_6972522": "Dataro",
+    "field_6972523": "",
+    "field_6972582": "b44b90da-5b28-491e-8b16-1d6d50d1424c",
+    "field_6972584": "https://www.dataro.io",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 171,
+    "order": "42.00000000000000000000",
+    "field_6972522": "GiveCampus",
+    "field_6972523": "",
+    "field_6972582": "42a0aff8-beaf-4079-91e1-5732c5860716",
+    "field_6972584": "https://www.givecampus.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 172,
+    "order": "43.00000000000000000000",
+    "field_6972522": "Geis Group",
+    "field_6972523": "",
+    "field_6972582": "f803e649-58bd-46ee-93a4-df8f83a27319",
+    "field_6972584": "https://geisgetsresults.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 173,
+    "order": "44.00000000000000000000",
+    "field_6972522": "ALM",
+    "field_6972523": "",
+    "field_6972582": "d32cb98d-69a3-4faa-a819-8156e1c33500",
+    "field_6972584": "https://www.alm.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 174,
+    "order": "45.00000000000000000000",
+    "field_6972522": "ScraperAPI",
+    "field_6972523": "",
+    "field_6972582": "79edeff1-861c-43be-87db-e0c31f1d2bfe",
+    "field_6972584": "https://www.scraperapi.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 175,
+    "order": "46.00000000000000000000",
+    "field_6972522": "Octoparse",
+    "field_6972523": "",
+    "field_6972582": "f22844cd-5205-449c-83a9-07f761110809",
+    "field_6972584": "https://www.octoparse.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 176,
+    "order": "47.00000000000000000000",
+    "field_6972522": "CoStar Group",
+    "field_6972523": "",
+    "field_6972582": "6fef2656-3dc5-4a70-98d9-7f79c7c4ca99",
+    "field_6972584": "https://www.costar.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 177,
+    "order": "48.00000000000000000000",
+    "field_6972522": "DonorAtlas",
+    "field_6972523": "",
+    "field_6972582": "b8f22d91-78fc-4216-adb7-424922b7e465",
+    "field_6972584": "https://donoratlas.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 178,
+    "order": "49.00000000000000000000",
+    "field_6972522": "WealthEngine",
+    "field_6972523": "",
+    "field_6972582": "5276c8ac-d4ba-4c3d-af01-7e754bfa2800",
+    "field_6972584": "https://www.wealthengine.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 179,
+    "order": "50.00000000000000000000",
+    "field_6972522": "Windfall Data",
+    "field_6972523": "",
+    "field_6972582": "ca03cc47-717d-460c-80c2-0178d2960275",
+    "field_6972584": "https://www.windfalldata.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 180,
+    "order": "51.00000000000000000000",
+    "field_6972522": "Gale (Cengage)",
+    "field_6972523": "",
+    "field_6972582": "d236bdd2-aae3-474d-a0c1-9cad9b0c8b6e",
+    "field_6972584": "https://www.gale.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 181,
+    "order": "52.00000000000000000000",
+    "field_6972522": "Dun & Bradstreet",
+    "field_6972523": "",
+    "field_6972582": "5320fbce-3ef1-478d-af59-d4180410353a",
+    "field_6972584": "https://www.dnb.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 182,
+    "order": "53.00000000000000000000",
+    "field_6972522": "U.S. Securities and Exchange Commission",
+    "field_6972523": "",
+    "field_6972582": "eb0f03ea-963d-4780-af93-5fa3139a5b2e",
+    "field_6972584": "https://www.sec.gov",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 183,
+    "order": "54.00000000000000000000",
+    "field_6972522": "Pipl",
+    "field_6972523": "",
+    "field_6972582": "dd608cf4-8bac-4319-9527-fec2406ec4ef",
+    "field_6972584": "https://pipl.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 184,
+    "order": "55.00000000000000000000",
+    "field_6972522": "Relationship Science",
+    "field_6972523": "",
+    "field_6972582": "a7be23fd-ca79-410b-bba2-a7d1cba4fae7",
+    "field_6972584": "https://www.relsci.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 185,
+    "order": "56.00000000000000000000",
+    "field_6972522": "VeriGift",
+    "field_6972523": "",
+    "field_6972582": "41ee8281-2e9a-421d-9cb9-377eecb0a66a",
+    "field_6972584": "https://www.verigift.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 186,
+    "order": "57.00000000000000000000",
+    "field_6972522": "ZoomInfo",
+    "field_6972523": "",
+    "field_6972582": "35f1a01b-bc52-4bda-8bcf-ea8c64027ec0",
+    "field_6972584": "https://www.zoominfo.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 187,
+    "order": "58.00000000000000000000",
+    "field_6972522": "Public Accountability Initiative",
+    "field_6972523": "",
+    "field_6972582": "f38d8aee-0d5e-47d9-b48d-13b6c6605805",
+    "field_6972584": "https://littlesis.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 188,
+    "order": "59.00000000000000000000",
+    "field_6972522": "Maltego Technologies",
+    "field_6972523": "",
+    "field_6972582": "087acd9a-8cc7-44d2-be8b-1221f16ed63c",
+    "field_6972584": "https://www.maltego.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 189,
+    "order": "60.00000000000000000000",
+    "field_6972522": "OpenCorporates",
+    "field_6972523": "",
+    "field_6972582": "6f30e050-5950-4841-81be-8e9a10eff77c",
+    "field_6972584": "https://opencorporates.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 190,
+    "order": "61.00000000000000000000",
+    "field_6972522": "CorpWatch",
+    "field_6972523": "",
+    "field_6972582": "de37e3d5-0af2-482a-9acf-2292b281c340",
+    "field_6972584": "https://corpwatch.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 191,
+    "order": "62.00000000000000000000",
+    "field_6972522": "BuiltWith",
+    "field_6972523": "",
+    "field_6972582": "301e1770-1c54-411d-8589-c9c7a44d1cec",
+    "field_6972584": "https://builtwith.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 192,
+    "order": "63.00000000000000000000",
+    "field_6972522": "Internet Archive",
+    "field_6972523": "",
+    "field_6972582": "42b0e778-2d36-4ade-a871-691b9e421606",
+    "field_6972584": "https://archive.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 193,
+    "order": "64.00000000000000000000",
+    "field_6972522": "Clarivate",
+    "field_6972523": "",
+    "field_6972582": "25e7f72a-3fba-47ae-b6bc-c71ed08967ed",
+    "field_6972584": "https://www.proquest.com",
+    "field_6972588": [
+      {
+        "id": 83,
+        "value": "ProQuest",
+        "order": "83.00000000000000000000"
+      },
+      {
+        "id": 175,
+        "value": "ProQuest One Business",
+        "order": "99.00000000000000000000"
+      },
+      {
+        "id": 177,
+        "value": "ProQuest ABI/Inform Collection",
+        "order": "100.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 194,
+    "order": "65.00000000000000000000",
+    "field_6972522": "Data Axle",
+    "field_6972523": "",
+    "field_6972582": "90b94383-7403-4f23-9d50-05625bbe658b",
+    "field_6972584": "https://www.data-axle.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 195,
+    "order": "66.00000000000000000000",
+    "field_6972522": "Gephi Consortium",
+    "field_6972523": "",
+    "field_6972582": "230eb023-8cf7-499d-9488-33e0b8968b32",
+    "field_6972584": "https://gephi.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 196,
+    "order": "67.00000000000000000000",
+    "field_6972522": "ByteDance",
+    "field_6972523": "",
+    "field_6972582": "73540b9c-66e6-42a6-b6b9-9aca8d31c42f",
+    "field_6972584": "https://www.bytedance.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 197,
+    "order": "68.00000000000000000000",
+    "field_6972522": "RocketReach",
+    "field_6972523": "",
+    "field_6972582": "f93db770-3413-4521-b8ff-92d2b03baf89",
+    "field_6972584": "https://rocketreach.co",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 198,
+    "order": "69.00000000000000000000",
+    "field_6972522": "Clearbit",
+    "field_6972523": "",
+    "field_6972582": "88d44f53-2e64-4b1b-a8c0-07b622dafa8b",
+    "field_6972584": "https://clearbit.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 199,
+    "order": "70.00000000000000000000",
+    "field_6972522": "People Data Labs",
+    "field_6972523": "",
+    "field_6972582": "e11076b4-fc66-4e5e-a0ff-b7fda2036602",
+    "field_6972584": "https://www.peopledatalabs.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 200,
+    "order": "71.00000000000000000000",
+    "field_6972522": "Crunchbase",
+    "field_6972523": "",
+    "field_6972582": "852646a7-206a-4520-ae90-34e4c4a4a9df",
+    "field_6972584": "https://www.crunchbase.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 201,
+    "order": "72.00000000000000000000",
+    "field_6972522": "CB Insights",
+    "field_6972523": "",
+    "field_6972582": "e2582f04-d947-4e47-a0cb-5930462328c6",
+    "field_6972584": "https://www.cbinsights.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 202,
+    "order": "73.00000000000000000000",
+    "field_6972522": "Owler",
+    "field_6972523": "",
+    "field_6972582": "94c83db7-a3c0-491a-9200-7b3a4491eb50",
+    "field_6972584": "https://www.owler.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 203,
+    "order": "74.00000000000000000000",
+    "field_6972522": "Center for Responsive Politics",
+    "field_6972523": "",
+    "field_6972582": "a7c44852-65a7-470e-a329-bc680e480515",
+    "field_6972584": "https://www.opensecrets.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 204,
+    "order": "75.00000000000000000000",
+    "field_6972522": "InfluenceMap",
+    "field_6972523": "",
+    "field_6972582": "25210ed1-c977-4dfd-aa2a-dda66f614110",
+    "field_6972584": "https://influencemap.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 205,
+    "order": "76.00000000000000000000",
+    "field_6972522": "ImportGenius",
+    "field_6972523": "",
+    "field_6972582": "68dae95e-6eca-48fb-86ea-9e25ad641319",
+    "field_6972584": "https://www.importgenius.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 206,
+    "order": "77.00000000000000000000",
+    "field_6972522": "S&P Global",
+    "field_6972523": "",
+    "field_6972582": "87d722f9-47a1-424d-b253-9290d0c391ba",
+    "field_6972584": "https://www.panjiva.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 207,
+    "order": "78.00000000000000000000",
+    "field_6972522": "Sayari",
+    "field_6972523": "",
+    "field_6972582": "60afe6a7-af09-48d8-9e50-8e5e3ec8c480",
+    "field_6972584": "https://sayari.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 208,
+    "order": "79.00000000000000000000",
+    "field_6972522": "NetBase Quid",
+    "field_6972523": "",
+    "field_6972582": "97659ce0-a110-4eb7-b3d8-7bc56ba40b3f",
+    "field_6972584": "https://netbasequid.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 209,
+    "order": "80.00000000000000000000",
+    "field_6972522": "AlphaSense",
+    "field_6972523": "",
+    "field_6972582": "11cbc4df-ff93-4701-9f77-c4c19de395d2",
+    "field_6972584": "https://www.alpha-sense.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 210,
+    "order": "81.00000000000000000000",
+    "field_6972522": "Sentieo",
+    "field_6972523": "",
+    "field_6972582": "9c1ed845-1bab-4d44-8cf6-8d3f5ebc969b",
+    "field_6972584": "https://www.sentieo.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 211,
+    "order": "82.00000000000000000000",
+    "field_6972522": "SimilarWeb",
+    "field_6972523": "",
+    "field_6972582": "cf8cec0a-8829-44fe-b04f-683cc1fff295",
+    "field_6972584": "https://www.similarweb.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 212,
+    "order": "83.00000000000000000000",
+    "field_6972522": "Semrush",
+    "field_6972523": "",
+    "field_6972582": "f3832f55-3c2c-45de-8ad8-7b5255c97cf9",
+    "field_6972584": "https://www.semrush.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 213,
+    "order": "84.00000000000000000000",
+    "field_6972522": "Ahrefs",
+    "field_6972523": "",
+    "field_6972582": "638b0ffb-ed2e-48f8-85f6-cfca5ae4d5e9",
+    "field_6972584": "https://ahrefs.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 214,
+    "order": "85.00000000000000000000",
+    "field_6972522": "Notion Labs",
+    "field_6972523": "",
+    "field_6972582": "f743bb80-2731-4f5f-87f1-4f5d88395618",
+    "field_6972584": "https://www.notion.so",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 215,
+    "order": "86.00000000000000000000",
+    "field_6972522": "Smartsheet Inc.",
+    "field_6972523": "",
+    "field_6972582": "435c70bc-1bad-404b-a59d-15305aa409d6",
+    "field_6972584": "https://www.smartsheet.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 216,
+    "order": "87.00000000000000000000",
+    "field_6972522": "Wrike",
+    "field_6972523": "",
+    "field_6972582": "16fbd914-5b62-45d1-8c60-7097aabd360a",
+    "field_6972584": "https://www.wrike.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 217,
+    "order": "88.00000000000000000000",
+    "field_6972522": "Airtable",
+    "field_6972523": "",
+    "field_6972582": "1c0d001d-b691-4806-854e-edcc1b1924ab",
+    "field_6972584": "https://airtable.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 218,
+    "order": "89.00000000000000000000",
+    "field_6972522": "Miro",
+    "field_6972523": "",
+    "field_6972582": "cbd4523b-71c1-496a-a6fb-f66573038feb",
+    "field_6972584": "https://miro.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 219,
+    "order": "90.00000000000000000000",
+    "field_6972522": "Lucid Software",
+    "field_6972523": "",
+    "field_6972582": "20a8a8e4-0b8b-4e3c-b3b8-cb73d85ba0cd",
+    "field_6972584": "https://www.lucidchart.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 220,
+    "order": "91.00000000000000000000",
+    "field_6972522": "Qlik",
+    "field_6972523": "",
+    "field_6972582": "d512337e-b02b-409c-808e-2ff5ba6b92df",
+    "field_6972584": "https://www.qlik.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 221,
+    "order": "92.00000000000000000000",
+    "field_6972522": "KNIME AG",
+    "field_6972523": "",
+    "field_6972582": "610a56c8-014c-49e7-b056-d4c620e4ea12",
+    "field_6972584": "https://www.knime.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 222,
+    "order": "93.00000000000000000000",
+    "field_6972522": "Metabase",
+    "field_6972523": "",
+    "field_6972582": "c5756a41-abd2-437a-8081-493922006bba",
+    "field_6972584": "https://www.metabase.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 223,
+    "order": "94.00000000000000000000",
+    "field_6972522": "Elastic",
+    "field_6972523": "",
+    "field_6972582": "9f6ea9cf-b4a0-4e8a-ae60-2bdc352c5031",
+    "field_6972584": "https://www.elastic.co",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 224,
+    "order": "95.00000000000000000000",
+    "field_6972522": "HaystackID",
+    "field_6972523": "",
+    "field_6972582": "8acba7ad-5b73-4b8e-9976-b6538d8d7269",
+    "field_6972584": "https://www.haystackid.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 225,
+    "order": "96.00000000000000000000",
+    "field_6972522": "Kroll",
+    "field_6972523": "",
+    "field_6972582": "6b2e67b7-b3a1-4930-9958-8c44c098ff21",
+    "field_6972584": "https://www.kroll.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 226,
+    "order": "97.00000000000000000000",
+    "field_6972522": "Control Risks",
+    "field_6972523": "",
+    "field_6972582": "1a00d1ed-0e15-4ee9-abb1-fee3f74c3880",
+    "field_6972584": "https://www.controlrisks.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 227,
+    "order": "98.00000000000000000000",
+    "field_6972522": "Snowflake",
+    "field_6972523": "",
+    "field_6972582": "632a593e-f9cb-40aa-9e2d-914f1694cd44",
+    "field_6972584": "https://www.snowflake.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 228,
+    "order": "99.00000000000000000000",
+    "field_6972522": "Fivetran",
+    "field_6972523": "",
+    "field_6972582": "e0dcb0b7-a255-474c-accd-8b6b0f5764ab",
+    "field_6972584": "https://www.fivetran.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 229,
+    "order": "100.00000000000000000000",
+    "field_6972522": "Segment (Twilio)",
+    "field_6972523": "",
+    "field_6972582": "0b0bafbb-3b0a-4571-9ce9-9d97088d5bd1",
+    "field_6972584": "https://segment.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 230,
+    "order": "101.00000000000000000000",
+    "field_6972522": "Zapier",
+    "field_6972523": "",
+    "field_6972582": "72bbeca0-3ace-4735-b085-54f8e2d0adab",
+    "field_6972584": "https://zapier.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 231,
+    "order": "102.00000000000000000000",
+    "field_6972522": "Celonis",
+    "field_6972523": "",
+    "field_6972582": "b94bb971-fc13-4363-8b62-565fa0bbde44",
+    "field_6972584": "https://www.make.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 232,
+    "order": "103.00000000000000000000",
+    "field_6972522": "EBSCO Information Services",
+    "field_6972523": "",
+    "field_6972582": "4b5f7124-31ca-46b4-ad4b-1a8af142e8dd",
+    "field_6972584": "https://www.ebsco.com/products/research-databases/business-source-complete",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 233,
+    "order": "104.00000000000000000000",
+    "field_6972522": "S&P Global",
+    "field_6972523": "",
+    "field_6972582": "2491b95e-2b69-483f-bba3-8f097df8474a",
+    "field_6972584": "https://www.spglobal.com/marketintelligence",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 234,
+    "order": "105.00000000000000000000",
+    "field_6972522": "Bureau van Dijk (Moody’s)",
+    "field_6972523": "",
+    "field_6972582": "3afb3f42-97c8-4494-94f2-3419165320e0",
+    "field_6972584": "https://www.bvdinfo.com/en-us/our-products/data/international/orbis",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 235,
+    "order": "106.00000000000000000000",
+    "field_6972522": "London Stock Exchange Group",
+    "field_6972523": "",
+    "field_6972582": "2c3bf13f-6f4f-4d38-a439-0acafe0141c8",
+    "field_6972584": "https://www.refinitiv.com/en/products/refinitiv-workspace",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 236,
+    "order": "107.00000000000000000000",
+    "field_6972522": "NewsBank",
+    "field_6972523": "",
+    "field_6972582": "8d2f7cc7-25c4-4fdf-8733-794fdb6de379",
+    "field_6972584": "https://www.newsbank.com/products/access-world-news",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 237,
+    "order": "108.00000000000000000000",
+    "field_6972522": "Dow Jones",
+    "field_6972523": "",
+    "field_6972582": "867b6468-3c74-4af8-a6e0-14b24e815e20",
+    "field_6972584": "https://www.dowjones.com/professional/factiva-news-database-alternatives",
+    "field_6972588": [
+      {
+        "id": 46,
+        "value": "Factiva",
+        "order": "46.00000000000000000000"
+      }
+    ],
+    "field_6981499": [],
+    "field_7013582": [
+      {
+        "id": 265,
+        "value": "News Corp",
+        "order": "133.00000000000000000000"
+      }
+    ]
+  },
+  {
+    "id": 238,
+    "order": "109.00000000000000000000",
+    "field_6972522": "Financial Times",
+    "field_6972523": "",
+    "field_6972582": "25e0fbd2-76e1-4a70-b4ac-21a47ee36fe4",
+    "field_6972584": "https://www.ft.com/solutions",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 239,
+    "order": "110.00000000000000000000",
+    "field_6972522": "Economist Group",
+    "field_6972523": "",
+    "field_6972582": "dc88367a-2f03-4821-a52d-a40704730d59",
+    "field_6972584": "https://www.eiu.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 240,
+    "order": "111.00000000000000000000",
+    "field_6972522": "Statista GmbH",
+    "field_6972523": "",
+    "field_6972582": "9a948a45-c95b-4d96-91b0-ceccfc4e28cd",
+    "field_6972584": "https://www.statista.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 241,
+    "order": "112.00000000000000000000",
+    "field_6972522": "Euromonitor International",
+    "field_6972523": "",
+    "field_6972582": "306ae4d2-ab20-4541-8283-2a40ea470d0c",
+    "field_6972584": "https://www.euromonitor.com/passport",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 242,
+    "order": "113.00000000000000000000",
+    "field_6972522": "IBISWorld",
+    "field_6972523": "",
+    "field_6972582": "0235e970-7164-43b8-8671-45b10bdbb7a2",
+    "field_6972584": "https://www.ibisworld.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 243,
+    "order": "114.00000000000000000000",
+    "field_6972522": "Oxford Analytica",
+    "field_6972523": "",
+    "field_6972582": "18d7a816-f676-4f81-b9f8-23901ec9e548",
+    "field_6972584": "https://www.oxan.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 244,
+    "order": "115.00000000000000000000",
+    "field_6972522": "Haver Analytics",
+    "field_6972523": "",
+    "field_6972582": "ffe841ea-a82c-4973-a816-a8811fa0652b",
+    "field_6972584": "https://www.haver.com",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 245,
+    "order": "116.00000000000000000000",
+    "field_6972522": "United Nations",
+    "field_6972523": "",
+    "field_6972582": "f1bba8ea-e0f8-43b7-8148-40d14058a139",
+    "field_6972584": "https://comtradeplus.un.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 246,
+    "order": "117.00000000000000000000",
+    "field_6972522": "OECD",
+    "field_6972523": "",
+    "field_6972582": "9f5af4d1-f516-44b0-a547-3dceb9093797",
+    "field_6972584": "https://www.oecd-ilibrary.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 247,
+    "order": "118.00000000000000000000",
+    "field_6972522": "World Bank",
+    "field_6972523": "",
+    "field_6972582": "4236da20-d902-4f92-ad7c-15e3ace07565",
+    "field_6972584": "https://data.worldbank.org",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 248,
+    "order": "119.00000000000000000000",
+    "field_6972522": "OpenAI",
+    "field_6972523": "",
+    "field_6972582": "c136ff2b-1230-4fde-a211-52ed7a41d836",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 249,
+    "order": "120.00000000000000000000",
+    "field_6972522": "Anthropic",
+    "field_6972523": "",
+    "field_6972582": "37b5c0ce-e480-4da6-9da7-d4d04021bcfb",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 250,
+    "order": "121.00000000000000000000",
+    "field_6972522": "Perplexity AI",
+    "field_6972523": "",
+    "field_6972582": "8bda8bdc-f1eb-4e61-b940-502dc5904313",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 251,
+    "order": "122.00000000000000000000",
+    "field_6972522": "Jasper",
+    "field_6972523": "",
+    "field_6972582": "70227ee8-4bbe-4239-aefc-aeec9d9ad5d6",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 252,
+    "order": "123.00000000000000000000",
+    "field_6972522": "Writer.com",
+    "field_6972523": "",
+    "field_6972582": "53e43e54-496e-4145-a848-9a67f8c28224",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 253,
+    "order": "124.00000000000000000000",
+    "field_6972522": "Cohere",
+    "field_6972523": "",
+    "field_6972582": "09dbadf9-714e-404a-bdbe-ddb8f05a2ccb",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 254,
+    "order": "125.00000000000000000000",
+    "field_6972522": "AI21 Labs",
+    "field_6972523": "",
+    "field_6972582": "3f419f0e-b7e0-4987-b985-6af1f5b49666",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 255,
+    "order": "126.00000000000000000000",
+    "field_6972522": "OpenSecrets",
+    "field_6972523": "",
+    "field_6972582": "2a2bb298-3d02-4c62-a786-ff759e9c1294",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 256,
+    "order": "127.00000000000000000000",
+    "field_6972522": "Lucid Software",
+    "field_6972523": "",
+    "field_6972582": "fbddb504-2eb3-43b9-a1fa-45a838ce5c6f",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 257,
+    "order": "128.00000000000000000000",
+    "field_6972522": "Business Valuation Resources LLC",
+    "field_6972523": "",
+    "field_6972582": "66ccc83a-97e2-49d2-b38a-1eda506eeb0f",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 258,
+    "order": "129.00000000000000000000",
+    "field_6972522": "ValueLine",
+    "field_6972523": "",
+    "field_6972582": "0eff5cd6-5a6c-40c4-81a2-0409dadec77f",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 259,
+    "order": "130.00000000000000000000",
+    "field_6972522": "LinkedIn",
+    "field_6972523": "",
+    "field_6972582": "4e0c715d-5fa8-4977-a304-5f0287bcf3be",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 260,
+    "order": "131.00000000000000000000",
+    "field_6972522": "TheOfficialBoard",
+    "field_6972523": "",
+    "field_6972582": "80312eaf-aa16-42af-b958-81150e811cb4",
+    "field_6972584": "https://www.theofficialboard.com/",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 261,
+    "order": "132.00000000000000000000",
+    "field_6972522": "Salutary Data",
+    "field_6972523": "",
+    "field_6972582": "a61452b7-1ec3-4c69-a204-b1ec6b859c60",
+    "field_6972584": "http://www.salutarydata.com/",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  },
+  {
+    "id": 265,
+    "order": "133.00000000000000000000",
+    "field_6972522": "News Corp",
+    "field_6972523": "",
+    "field_6972582": "a283d7a8-e811-432a-b2ac-fd1ff8dcfa4d",
+    "field_6972584": "",
+    "field_6972588": [],
+    "field_6981499": [],
+    "field_7013582": []
+  }
+]
