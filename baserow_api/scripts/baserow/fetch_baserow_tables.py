@@ -82,8 +82,8 @@ def fetch_table_with_pagination(table_name: str, table_id: int, limit: Optional[
     
     print(f"Fetching {table_name} (ID: {table_id})...")
     
-    # Initial URL with page size
-    url = f"{BASEROW_BASE_URL}/api/database/rows/table/{table_id}/?size={BASEROW_PAGE_SIZE}"
+    # Initial URL with page size and user-friendly field names
+    url = f"{BASEROW_BASE_URL}/api/database/rows/table/{table_id}/?user_field_names=true&size={BASEROW_PAGE_SIZE}"
     page_num = 1
     
     while url:
