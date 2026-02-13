@@ -1,0 +1,22 @@
+[
+  {
+    "name": "Company Info",
+    "color": "dark-red"
+  },
+  {
+    "name": "Data Analytics",
+    "color": "green"
+  },
+  {
+    "name": "Data Broker",
+    "color": "cyan"
+  },
+  {
+    "name": "Due Dilligence",
+    "color": "light-cyan"
+  },
+  {
+    "name": "Social Media",
+    "color": "light-green"
+  }
+]

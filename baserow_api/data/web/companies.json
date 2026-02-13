@@ -1,0 +1,1219 @@
+[
+  {
+    "id": "7c1888b6-7e4b-47a8-9efa-780bd523dda9",
+    "name": "X Corp",
+    "url": "https://x.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "5ada842e-a40f-48dc-8bb3-f5614ec084ba",
+        "name": "X",
+        "description_short": "",
+        "description_long": "",
+        "tags": [
+          "Social Media"
+        ],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 1
+  },
+  {
+    "id": "f70799dd-3deb-4767-9eb5-6e49eeff916d",
+    "name": "Meta Platforms",
+    "url": "https://about.meta.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "5071de5b-900c-4937-b8aa-4e999e0ec628",
+        "name": "Instagram",
+        "description_short": "",
+        "description_long": "",
+        "tags": [
+          "Social Media"
+        ],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      },
+      {
+        "id": "3bcc7522-d0fb-4249-9b24-91004082806a",
+        "name": "Facebook",
+        "description_short": "",
+        "description_long": "",
+        "tags": [
+          "Social Media"
+        ],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 2
+  },
+  {
+    "id": "f3886d51-bb01-4db4-aa5e-53e4b74aafa6",
+    "name": "Microsoft",
+    "url": "https://www.microsoft.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "f0bbf170-2393-4ffa-99aa-6cbf4a7a79e8",
+        "name": "LinkedIn",
+        "description_short": "",
+        "description_long": "",
+        "tags": [
+          "Social Media"
+        ],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      },
+      {
+        "id": "c640c416-6b9b-4e89-b3a1-274325bdb701",
+        "name": "SalesNavigator",
+        "description_short": "LinkedIn Sales Navigator is a subscription-based sales prospecting and lead-management tool that helps sales professionals find, track, and engage potential customers using LinkedIn’s network and insights.",
+        "description_long": "LinkedIn Sales Navigator is a paid sales prospecting and relationship-management platform designed to help sales professionals identify, research, and engage potential customers using LinkedIn data and insights. It provides advanced search and filtering to target prospects by criteria such as role, seniority, industry, company size, and geography; tools to save leads and accounts and receive alerts on job changes or company activity; InMail messaging to contact users outside one’s direct network; lead and account recommendations based on usage patterns; and integrations with CRM systems to support structured sales workflows and pipeline management.",
+        "tags": [],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 2
+  },
+  {
+    "id": "f0f5fa7c-3647-4bb8-84b7-c7e501d54439",
+    "name": "Bitwarden Inc.",
+    "url": "https://bitwarden.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "4f6512a2-0f98-4132-a79f-ebd82c55e4c2",
+        "name": "Bitwarden",
+        "description_short": "",
+        "description_long": "",
+        "tags": [],
+        "rating": "0",
+        "cost": "0",
+        "url": ""
+      }
+    ],
+    "tool_count": 1
+  },
+  {
+    "id": "911395b3-90c3-4f8b-bfe0-f5191a8db420",
+    "name": "DonorSearch",
+    "url": "https://www.donorsearch.net",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "540f0e80-85cb-4784-9c64-6d308f426bd4",
+    "name": "AlumniFinder",
+    "url": "https://www.alumnifinder.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "5806b010-a308-4108-b33c-7bfd08eb4a7b",
+    "name": "Ellucian",
+    "url": "https://www.ellucian.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "4587ae18-765d-4bd4-b182-57d62a7e6f11",
+    "name": "Salesforce",
+    "url": "https://www.salesforce.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "358e46dd-3e3e-4775-b18f-e7f4f6513f3e",
+    "name": "Blackbaud",
+    "url": "https://www.blackbaud.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "e0c0b4d3-40c7-4ace-8429-183c5b29147f",
+        "name": "Raiser's Edge NXT",
+        "description_short": "",
+        "description_long": "",
+        "tags": [],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      },
+      {
+        "id": "daa57c0d-b4c7-48ad-8bee-c2a64e11c30d",
+        "name": "ResearchPoint",
+        "description_short": "",
+        "description_long": "",
+        "tags": [],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 2
+  },
+  {
+    "id": "51cd049d-3757-4bf6-84fa-c2f270eb4686",
+    "name": "Kaleidoscope Inc.",
+    "url": "https://www.kaleidoscope.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "b685ce3b-b326-4fe9-be1e-51072d0b459d",
+    "name": "AlmaConnect",
+    "url": "https://www.almaconnect.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "cd46617a-12ae-4814-a416-01c3b7320886",
+    "name": "MergentOnline",
+    "url": "",
+    "notes": "",
+    "tools": [
+      {
+        "id": "7c70d86b-5f77-428c-986f-765fb4dce959",
+        "name": "MergentOnline",
+        "description_short": "Mergent Online is a subscription-based financial research database that provides detailed company profiles, historical and current financial data, annual reports, executive information, and other business-related content for public and private companies worldwide.",
+        "description_long": "Replacing the old Mergent Intellect service but does the same thing. Better for public companies.\\\n\\\nMergent Online is an online business and financial information database designed for company and industry research. It includes extensive textual and structured data on both U.S. and international companies, such as full company profiles, business descriptions, histories, financial statements (annual and quarterly), executive and director details, ownership information, SEC filings, and access to archived annual reports and financials. The platform supports advanced search and reporting tools that allow users to retrieve, customize, and export data for analysis, comparison, and reporting. Its content is updated regularly and is used by researchers, financial analysts, investors, and academic institutions for comprehensive fundamental research.",
+        "tags": [],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      },
+      {
+        "id": "529b304d-8a2f-47ff-90b7-a005318a3ae0",
+        "name": "Mergent Intellect",
+        "description_short": "",
+        "description_long": "Extensive business info but Mergent Intellect arguably has one of the best executive searches letting you export files with hundreds of executives including their company phone number",
+        "tags": [
+          "Company Info"
+        ],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 2
+  },
+  {
+    "id": "51ac935d-e1f9-4cc9-849a-0827df825554",
+    "name": "Insightful Inc.",
+    "url": "https://www.insightful.io",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f906c854-7795-4f2d-8644-7a95834d48c7",
+    "name": "Wallbrook",
+    "url": "https://wallbrook.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "7752dc8b-7ebd-4a59-907a-7359bf6db258",
+    "name": "Cotality",
+    "url": "https://cotality.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "41f9ce2b-da36-4e9c-b688-c1d824df94fb",
+    "name": "Atlassian",
+    "url": "https://www.atlassian.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "69c6454b-7525-463d-bfe5-9840d8c7c41a",
+    "name": "Asana Inc.",
+    "url": "https://asana.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "19edd82a-2a78-4ea8-b8dc-5633e616315f",
+    "name": "Zendesk",
+    "url": "https://www.zendesk.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "de3532a6-b7fb-4a76-8cdd-3bce2fcab71a",
+    "name": "ClickUp",
+    "url": "https://clickup.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "b09bfae6-c221-450e-bc71-6bd379ea3b33",
+    "name": "RELX",
+    "url": "https://www.lexisnexis.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "623df448-e3aa-4f09-961a-2221bf547565",
+        "name": "Nexis for Development Professionals",
+        "description_short": "Nexis for Development Professionals is an online prospect research platform that supports fundraising by providing access to over 81 billion public records and 10,000+ data sources to identify high-potential donors, assess their wealth and giving capacity, and mitigate reputational risks.",
+        "description_long": "",
+        "tags": [],
+        "rating": null,
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 1
+  },
+  {
+    "id": "37acf181-5d7c-47f5-8c84-466a148fd34e",
+    "name": "Salesforce",
+    "url": "https://www.tableau.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "458baf6d-47ff-4b8b-8bf3-4d64418ec6f3",
+    "name": "Morningstar",
+    "url": "https://pitchbook.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "8782b05a-f0d8-49af-802f-83d3cd3b5ba8",
+    "name": "Google",
+    "url": "https://www.google.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "141eb258-1d62-40ac-b261-d1e9a2b14cc6",
+    "name": "Hootsuite",
+    "url": "https://www.talkwalker.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "c43fea96-1842-4883-b3f5-a9337b9d405a",
+    "name": "Obsidian Labs",
+    "url": "https://obsidian.md",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "80e38578-444c-40df-8252-322b4ec00c04",
+    "name": "Kindsight",
+    "url": "https://www.kindsight.io",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "597f0c43-429d-47ea-be81-2a596e5367bb",
+    "name": "Candid",
+    "url": "https://candid.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "58729fad-45d0-432f-9665-b5dd4ff5168b",
+    "name": "Bonterra",
+    "url": "https://www.bonterratech.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "b1e57bc4-6c36-48ef-ae7a-8e433965b1f0",
+    "name": "Humantru",
+    "url": "https://humantru.co",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "10865983-a55f-4ac6-974d-c4ef89674693",
+    "name": "Aidentified",
+    "url": "https://www.aidentified.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "3d311d77-8f1a-43dc-a36b-6fa7a4148626",
+    "name": "ContactOut",
+    "url": "https://contactout.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "c6162d1c-aa21-4d91-8b9b-e06864110186",
+    "name": "Whitepages",
+    "url": "https://www.whitepages.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "ecf70791-4da2-4030-aee6-658a7c18b382",
+    "name": "Hunter",
+    "url": "https://hunter.io",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f15f21e4-07d4-4935-8353-1030a6265769",
+    "name": "Pyro Solutions",
+    "url": "https://www.pyrosolutions.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "0da32f79-c552-46a5-b467-cbfefd3ab03e",
+    "name": "Altrata",
+    "url": "https://www.altrata.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f24b96ab-1800-4b53-8785-37beac883833",
+    "name": "Xapien",
+    "url": "https://www.xapien.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "6d0fa38c-a05d-4d92-87fe-5f26cf5847bb",
+    "name": "FactSet",
+    "url": "https://www.factset.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f9c3e1bb-4fc7-46f2-a29a-65a15886555a",
+    "name": "PrivCo",
+    "url": "https://www.privco.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "b44b90da-5b28-491e-8b16-1d6d50d1424c",
+    "name": "Dataro",
+    "url": "https://www.dataro.io",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "42a0aff8-beaf-4079-91e1-5732c5860716",
+    "name": "GiveCampus",
+    "url": "https://www.givecampus.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f803e649-58bd-46ee-93a4-df8f83a27319",
+    "name": "Geis Group",
+    "url": "https://geisgetsresults.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "d32cb98d-69a3-4faa-a819-8156e1c33500",
+    "name": "ALM",
+    "url": "https://www.alm.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "79edeff1-861c-43be-87db-e0c31f1d2bfe",
+    "name": "ScraperAPI",
+    "url": "https://www.scraperapi.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f22844cd-5205-449c-83a9-07f761110809",
+    "name": "Octoparse",
+    "url": "https://www.octoparse.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "6fef2656-3dc5-4a70-98d9-7f79c7c4ca99",
+    "name": "CoStar Group",
+    "url": "https://www.costar.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "b8f22d91-78fc-4216-adb7-424922b7e465",
+    "name": "DonorAtlas",
+    "url": "https://donoratlas.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "5276c8ac-d4ba-4c3d-af01-7e754bfa2800",
+    "name": "WealthEngine",
+    "url": "https://www.wealthengine.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "ca03cc47-717d-460c-80c2-0178d2960275",
+    "name": "Windfall Data",
+    "url": "https://www.windfalldata.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "d236bdd2-aae3-474d-a0c1-9cad9b0c8b6e",
+    "name": "Gale (Cengage)",
+    "url": "https://www.gale.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "5320fbce-3ef1-478d-af59-d4180410353a",
+    "name": "Dun & Bradstreet",
+    "url": "https://www.dnb.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "eb0f03ea-963d-4780-af93-5fa3139a5b2e",
+    "name": "U.S. Securities and Exchange Commission",
+    "url": "https://www.sec.gov",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "dd608cf4-8bac-4319-9527-fec2406ec4ef",
+    "name": "Pipl",
+    "url": "https://pipl.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "a7be23fd-ca79-410b-bba2-a7d1cba4fae7",
+    "name": "Relationship Science",
+    "url": "https://www.relsci.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "41ee8281-2e9a-421d-9cb9-377eecb0a66a",
+    "name": "VeriGift",
+    "url": "https://www.verigift.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "35f1a01b-bc52-4bda-8bcf-ea8c64027ec0",
+    "name": "ZoomInfo",
+    "url": "https://www.zoominfo.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f38d8aee-0d5e-47d9-b48d-13b6c6605805",
+    "name": "Public Accountability Initiative",
+    "url": "https://littlesis.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "087acd9a-8cc7-44d2-be8b-1221f16ed63c",
+    "name": "Maltego Technologies",
+    "url": "https://www.maltego.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "6f30e050-5950-4841-81be-8e9a10eff77c",
+    "name": "OpenCorporates",
+    "url": "https://opencorporates.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "de37e3d5-0af2-482a-9acf-2292b281c340",
+    "name": "CorpWatch",
+    "url": "https://corpwatch.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "301e1770-1c54-411d-8589-c9c7a44d1cec",
+    "name": "BuiltWith",
+    "url": "https://builtwith.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "42b0e778-2d36-4ade-a871-691b9e421606",
+    "name": "Internet Archive",
+    "url": "https://archive.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "25e7f72a-3fba-47ae-b6bc-c71ed08967ed",
+    "name": "Clarivate",
+    "url": "https://www.proquest.com",
+    "notes": "",
+    "tools": [
+      {
+        "id": "b25eec0b-6a5b-4c8d-92fa-9619cd822b3f",
+        "name": "ProQuest",
+        "description_short": "ProQuest is a global information-content and technology company that provides academic libraries and researchers with access to a massive collection of digitized dissertations, historical newspapers, scholarly journals, and primary source documents.",
+        "description_long": "ProQuest has dozens of databases, and institutions can choose to subscribe to specialized periodical databases or just default to the \"central\" list. The ProQuest Central database is the largest single periodical resource available, bringing together complete databases across all major subject areas, including Business, Health and Medical, Social Sciences, Education, Science and Technology, and Humanities. Notably, press release wires and international reach.",
+        "tags": [],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      },
+      {
+        "id": "2260d066-6d64-4174-9e71-3625e1eed9f7",
+        "name": "ProQuest One Business",
+        "description_short": "The comprehensive flagship platform for business articles, though many institutions still pay for individual databases that feed into this aggregator.",
+        "description_long": "",
+        "tags": [],
+        "rating": null,
+        "cost": null,
+        "url": ""
+      },
+      {
+        "id": "68996483-09fb-404a-947b-b2fea2dfa20a",
+        "name": "ProQuest ABI/Inform Collection",
+        "description_short": "",
+        "description_long": "",
+        "tags": [],
+        "rating": null,
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 3
+  },
+  {
+    "id": "90b94383-7403-4f23-9d50-05625bbe658b",
+    "name": "Data Axle",
+    "url": "https://www.data-axle.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "230eb023-8cf7-499d-9488-33e0b8968b32",
+    "name": "Gephi Consortium",
+    "url": "https://gephi.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "73540b9c-66e6-42a6-b6b9-9aca8d31c42f",
+    "name": "ByteDance",
+    "url": "https://www.bytedance.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f93db770-3413-4521-b8ff-92d2b03baf89",
+    "name": "RocketReach",
+    "url": "https://rocketreach.co",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "88d44f53-2e64-4b1b-a8c0-07b622dafa8b",
+    "name": "Clearbit",
+    "url": "https://clearbit.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "e11076b4-fc66-4e5e-a0ff-b7fda2036602",
+    "name": "People Data Labs",
+    "url": "https://www.peopledatalabs.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "852646a7-206a-4520-ae90-34e4c4a4a9df",
+    "name": "Crunchbase",
+    "url": "https://www.crunchbase.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "e2582f04-d947-4e47-a0cb-5930462328c6",
+    "name": "CB Insights",
+    "url": "https://www.cbinsights.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "94c83db7-a3c0-491a-9200-7b3a4491eb50",
+    "name": "Owler",
+    "url": "https://www.owler.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "a7c44852-65a7-470e-a329-bc680e480515",
+    "name": "Center for Responsive Politics",
+    "url": "https://www.opensecrets.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "25210ed1-c977-4dfd-aa2a-dda66f614110",
+    "name": "InfluenceMap",
+    "url": "https://influencemap.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "68dae95e-6eca-48fb-86ea-9e25ad641319",
+    "name": "ImportGenius",
+    "url": "https://www.importgenius.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "87d722f9-47a1-424d-b253-9290d0c391ba",
+    "name": "S&P Global",
+    "url": "https://www.panjiva.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "60afe6a7-af09-48d8-9e50-8e5e3ec8c480",
+    "name": "Sayari",
+    "url": "https://sayari.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "97659ce0-a110-4eb7-b3d8-7bc56ba40b3f",
+    "name": "NetBase Quid",
+    "url": "https://netbasequid.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "11cbc4df-ff93-4701-9f77-c4c19de395d2",
+    "name": "AlphaSense",
+    "url": "https://www.alpha-sense.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "9c1ed845-1bab-4d44-8cf6-8d3f5ebc969b",
+    "name": "Sentieo",
+    "url": "https://www.sentieo.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "cf8cec0a-8829-44fe-b04f-683cc1fff295",
+    "name": "SimilarWeb",
+    "url": "https://www.similarweb.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f3832f55-3c2c-45de-8ad8-7b5255c97cf9",
+    "name": "Semrush",
+    "url": "https://www.semrush.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "638b0ffb-ed2e-48f8-85f6-cfca5ae4d5e9",
+    "name": "Ahrefs",
+    "url": "https://ahrefs.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f743bb80-2731-4f5f-87f1-4f5d88395618",
+    "name": "Notion Labs",
+    "url": "https://www.notion.so",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "435c70bc-1bad-404b-a59d-15305aa409d6",
+    "name": "Smartsheet Inc.",
+    "url": "https://www.smartsheet.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "16fbd914-5b62-45d1-8c60-7097aabd360a",
+    "name": "Wrike",
+    "url": "https://www.wrike.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "1c0d001d-b691-4806-854e-edcc1b1924ab",
+    "name": "Airtable",
+    "url": "https://airtable.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "cbd4523b-71c1-496a-a6fb-f66573038feb",
+    "name": "Miro",
+    "url": "https://miro.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "20a8a8e4-0b8b-4e3c-b3b8-cb73d85ba0cd",
+    "name": "Lucid Software",
+    "url": "https://www.lucidchart.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "d512337e-b02b-409c-808e-2ff5ba6b92df",
+    "name": "Qlik",
+    "url": "https://www.qlik.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "610a56c8-014c-49e7-b056-d4c620e4ea12",
+    "name": "KNIME AG",
+    "url": "https://www.knime.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "c5756a41-abd2-437a-8081-493922006bba",
+    "name": "Metabase",
+    "url": "https://www.metabase.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "9f6ea9cf-b4a0-4e8a-ae60-2bdc352c5031",
+    "name": "Elastic",
+    "url": "https://www.elastic.co",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "8acba7ad-5b73-4b8e-9976-b6538d8d7269",
+    "name": "HaystackID",
+    "url": "https://www.haystackid.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "6b2e67b7-b3a1-4930-9958-8c44c098ff21",
+    "name": "Kroll",
+    "url": "https://www.kroll.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "1a00d1ed-0e15-4ee9-abb1-fee3f74c3880",
+    "name": "Control Risks",
+    "url": "https://www.controlrisks.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "632a593e-f9cb-40aa-9e2d-914f1694cd44",
+    "name": "Snowflake",
+    "url": "https://www.snowflake.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "e0dcb0b7-a255-474c-accd-8b6b0f5764ab",
+    "name": "Fivetran",
+    "url": "https://www.fivetran.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "0b0bafbb-3b0a-4571-9ce9-9d97088d5bd1",
+    "name": "Segment (Twilio)",
+    "url": "https://segment.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "72bbeca0-3ace-4735-b085-54f8e2d0adab",
+    "name": "Zapier",
+    "url": "https://zapier.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "b94bb971-fc13-4363-8b62-565fa0bbde44",
+    "name": "Celonis",
+    "url": "https://www.make.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "4b5f7124-31ca-46b4-ad4b-1a8af142e8dd",
+    "name": "EBSCO Information Services",
+    "url": "https://www.ebsco.com/products/research-databases/business-source-complete",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "2491b95e-2b69-483f-bba3-8f097df8474a",
+    "name": "S&P Global",
+    "url": "https://www.spglobal.com/marketintelligence",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "3afb3f42-97c8-4494-94f2-3419165320e0",
+    "name": "Bureau van Dijk (Moody’s)",
+    "url": "https://www.bvdinfo.com/en-us/our-products/data/international/orbis",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "2c3bf13f-6f4f-4d38-a439-0acafe0141c8",
+    "name": "London Stock Exchange Group",
+    "url": "https://www.refinitiv.com/en/products/refinitiv-workspace",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "8d2f7cc7-25c4-4fdf-8733-794fdb6de379",
+    "name": "NewsBank",
+    "url": "https://www.newsbank.com/products/access-world-news",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "867b6468-3c74-4af8-a6e0-14b24e815e20",
+    "name": "Dow Jones",
+    "url": "https://www.dowjones.com/professional/factiva-news-database-alternatives",
+    "notes": "",
+    "tools": [
+      {
+        "id": "89e8b67e-b327-4d92-b994-fa93a10d82f1",
+        "name": "Factiva",
+        "description_short": "Factiva is a subscription-based business intelligence platform that provides access to global news, company information, industry data, and market insights from a wide range of licensed sources.",
+        "description_long": "Factiva is a business information and research platform that aggregates global news company data and market intelligence from thousands of sources. Corporate subsidiary family trees executive lists and stock information (with links to paperwork) recent news querying and you can follow their source update page to see exactly which sources are being used discontinued etc. Good for big companies where the research question needs to dive in and understand subsidiaries or the overarching nature of the business",
+        "tags": [],
+        "rating": "0",
+        "cost": null,
+        "url": ""
+      }
+    ],
+    "tool_count": 1
+  },
+  {
+    "id": "25e0fbd2-76e1-4a70-b4ac-21a47ee36fe4",
+    "name": "Financial Times",
+    "url": "https://www.ft.com/solutions",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "dc88367a-2f03-4821-a52d-a40704730d59",
+    "name": "Economist Group",
+    "url": "https://www.eiu.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "9a948a45-c95b-4d96-91b0-ceccfc4e28cd",
+    "name": "Statista GmbH",
+    "url": "https://www.statista.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "306ae4d2-ab20-4541-8283-2a40ea470d0c",
+    "name": "Euromonitor International",
+    "url": "https://www.euromonitor.com/passport",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "0235e970-7164-43b8-8671-45b10bdbb7a2",
+    "name": "IBISWorld",
+    "url": "https://www.ibisworld.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "18d7a816-f676-4f81-b9f8-23901ec9e548",
+    "name": "Oxford Analytica",
+    "url": "https://www.oxan.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "ffe841ea-a82c-4973-a816-a8811fa0652b",
+    "name": "Haver Analytics",
+    "url": "https://www.haver.com",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "f1bba8ea-e0f8-43b7-8148-40d14058a139",
+    "name": "United Nations",
+    "url": "https://comtradeplus.un.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "9f5af4d1-f516-44b0-a547-3dceb9093797",
+    "name": "OECD",
+    "url": "https://www.oecd-ilibrary.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "4236da20-d902-4f92-ad7c-15e3ace07565",
+    "name": "World Bank",
+    "url": "https://data.worldbank.org",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "c136ff2b-1230-4fde-a211-52ed7a41d836",
+    "name": "OpenAI",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "37b5c0ce-e480-4da6-9da7-d4d04021bcfb",
+    "name": "Anthropic",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "8bda8bdc-f1eb-4e61-b940-502dc5904313",
+    "name": "Perplexity AI",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "70227ee8-4bbe-4239-aefc-aeec9d9ad5d6",
+    "name": "Jasper",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "53e43e54-496e-4145-a848-9a67f8c28224",
+    "name": "Writer.com",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "09dbadf9-714e-404a-bdbe-ddb8f05a2ccb",
+    "name": "Cohere",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "3f419f0e-b7e0-4987-b985-6af1f5b49666",
+    "name": "AI21 Labs",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "2a2bb298-3d02-4c62-a786-ff759e9c1294",
+    "name": "OpenSecrets",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "fbddb504-2eb3-43b9-a1fa-45a838ce5c6f",
+    "name": "Lucid Software",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "66ccc83a-97e2-49d2-b38a-1eda506eeb0f",
+    "name": "Business Valuation Resources LLC",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "0eff5cd6-5a6c-40c4-81a2-0409dadec77f",
+    "name": "ValueLine",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "4e0c715d-5fa8-4977-a304-5f0287bcf3be",
+    "name": "LinkedIn",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "80312eaf-aa16-42af-b958-81150e811cb4",
+    "name": "TheOfficialBoard",
+    "url": "https://www.theofficialboard.com/",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "a61452b7-1ec3-4c69-a204-b1ec6b859c60",
+    "name": "Salutary Data",
+    "url": "http://www.salutarydata.com/",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  },
+  {
+    "id": "a283d7a8-e811-432a-b2ac-fd1ff8dcfa4d",
+    "name": "News Corp",
+    "url": "",
+    "notes": "",
+    "tools": [],
+    "tool_count": 0
+  }
+]

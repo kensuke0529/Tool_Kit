@@ -1,0 +1,1558 @@
+[
+  {
+    "id": "5ada842e-a40f-48dc-8bb3-f5614ec084ba",
+    "name": "X",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Social Media"
+    ],
+    "tag_colors": {
+      "Social Media": "light-green"
+    },
+    "companies": [
+      {
+        "id": "7c1888b6-7e4b-47a8-9efa-780bd523dda9",
+        "name": "X Corp",
+        "url": "https://x.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:43.636443Z"
+  },
+  {
+    "id": "5071de5b-900c-4937-b8aa-4e999e0ec628",
+    "name": "Instagram",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Social Media"
+    ],
+    "tag_colors": {
+      "Social Media": "light-green"
+    },
+    "companies": [
+      {
+        "id": "f70799dd-3deb-4767-9eb5-6e49eeff916d",
+        "name": "Meta Platforms",
+        "url": "https://about.meta.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:44.275329Z"
+  },
+  {
+    "id": "f0bbf170-2393-4ffa-99aa-6cbf4a7a79e8",
+    "name": "LinkedIn",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Social Media"
+    ],
+    "tag_colors": {
+      "Social Media": "light-green"
+    },
+    "companies": [
+      {
+        "id": "f3886d51-bb01-4db4-aa5e-53e4b74aafa6",
+        "name": "Microsoft",
+        "url": "https://www.microsoft.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:44.779554Z"
+  },
+  {
+    "id": "3bcc7522-d0fb-4249-9b24-91004082806a",
+    "name": "Facebook",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Social Media"
+    ],
+    "tag_colors": {
+      "Social Media": "light-green"
+    },
+    "companies": [
+      {
+        "id": "f70799dd-3deb-4767-9eb5-6e49eeff916d",
+        "name": "Meta Platforms",
+        "url": "https://about.meta.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:45.277499Z"
+  },
+  {
+    "id": "4f6512a2-0f98-4132-a79f-ebd82c55e4c2",
+    "name": "Bitwarden",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "f0f5fa7c-3647-4bb8-84b7-c7e501d54439",
+        "name": "Bitwarden Inc.",
+        "url": "https://bitwarden.com"
+      }
+    ],
+    "rating": "0",
+    "cost": "0",
+    "url": "",
+    "last_modified": "2026-01-27T11:44:45.963823Z"
+  },
+  {
+    "id": "3c8cc4f3-0478-4291-9798-717078d8ad92",
+    "name": "DonorSearch",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:46.878344Z"
+  },
+  {
+    "id": "e6516e93-3167-4609-a555-2e0f5fc04355",
+    "name": "AlumniFinder",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:47.364330Z"
+  },
+  {
+    "id": "41c9b1ac-7943-4c16-8661-fb64984bca94",
+    "name": "Ellucian",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:48.046220Z"
+  },
+  {
+    "id": "b7a0c4b6-c81b-483f-a174-7b03ce6d4e51",
+    "name": "Salesforce",
+    "description_short": "",
+    "description_long": "Ascend is one popular solution but there are others built on top of the Salesforce platform as well",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:48.979387Z"
+  },
+  {
+    "id": "e0c0b4d3-40c7-4ace-8429-183c5b29147f",
+    "name": "Raiser's Edge NXT",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "358e46dd-3e3e-4775-b18f-e7f4f6513f3e",
+        "name": "Blackbaud",
+        "url": "https://www.blackbaud.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:49.487916Z"
+  },
+  {
+    "id": "daa57c0d-b4c7-48ad-8bee-c2a64e11c30d",
+    "name": "ResearchPoint",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "358e46dd-3e3e-4775-b18f-e7f4f6513f3e",
+        "name": "Blackbaud",
+        "url": "https://www.blackbaud.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:49.993557Z"
+  },
+  {
+    "id": "5c4b20fa-7be9-4ceb-94c7-d59cc14540fc",
+    "name": "Kaleidoscope",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:50.445153Z"
+  },
+  {
+    "id": "c2443357-b86e-475b-8310-3165f95f0d09",
+    "name": "Almaconnect",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:51.115031Z"
+  },
+  {
+    "id": "7c70d86b-5f77-428c-986f-765fb4dce959",
+    "name": "MergentOnline",
+    "description_short": "Mergent Online is a subscription-based financial research database that provides detailed company profiles, historical and current financial data, annual reports, executive information, and other business-related content for public and private companies worldwide.",
+    "description_long": "Replacing the old Mergent Intellect service but does the same thing. Better for public companies.\\\n\\\nMergent Online is an online business and financial information database designed for company and industry research. It includes extensive textual and structured data on both U.S. and international companies, such as full company profiles, business descriptions, histories, financial statements (annual and quarterly), executive and director details, ownership information, SEC filings, and access to archived annual reports and financials. The platform supports advanced search and reporting tools that allow users to retrieve, customize, and export data for analysis, comparison, and reporting. Its content is updated regularly and is used by researchers, financial analysts, investors, and academic institutions for comprehensive fundamental research.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "cd46617a-12ae-4814-a416-01c3b7320886",
+        "name": "MergentOnline",
+        "url": ""
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T20:23:23.102329Z"
+  },
+  {
+    "id": "c640c416-6b9b-4e89-b3a1-274325bdb701",
+    "name": "SalesNavigator",
+    "description_short": "LinkedIn Sales Navigator is a subscription-based sales prospecting and lead-management tool that helps sales professionals find, track, and engage potential customers using LinkedIn’s network and insights.",
+    "description_long": "LinkedIn Sales Navigator is a paid sales prospecting and relationship-management platform designed to help sales professionals identify, research, and engage potential customers using LinkedIn data and insights. It provides advanced search and filtering to target prospects by criteria such as role, seniority, industry, company size, and geography; tools to save leads and accounts and receive alerts on job changes or company activity; InMail messaging to contact users outside one’s direct network; lead and account recommendations based on usage patterns; and integrations with CRM systems to support structured sales workflows and pipeline management.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "f3886d51-bb01-4db4-aa5e-53e4b74aafa6",
+        "name": "Microsoft",
+        "url": "https://www.microsoft.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T22:14:03.246605Z"
+  },
+  {
+    "id": "03a0f659-5ff5-4ebc-89d0-5fc336fffafe",
+    "name": "Insightful",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:53.704021Z"
+  },
+  {
+    "id": "784d9818-fe2f-4f43-aa1b-9b0644cbd0de",
+    "name": "Wallbrook",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Due Dilligence"
+    ],
+    "tag_colors": {
+      "Due Dilligence": "light-cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:54.202197Z"
+  },
+  {
+    "id": "481b0281-8ffe-4920-b12d-6493cc7d2bb9",
+    "name": "Cotality",
+    "description_short": "",
+    "description_long": "Potentially helpful to understand their data market places and how they sit within the larger landcscape of real estate data brokers however their intended product audience are other companies with cloud infastructure to process real estate data or build apps not direct to consumer. Useful to understand them if one were to attempt to build a competitor to something like iWave and you need to pay for data.",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:28.483140Z"
+  },
+  {
+    "id": "f3276037-9589-4a94-ac3c-b41b53be2e3f",
+    "name": "Jira",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:54.660053Z"
+  },
+  {
+    "id": "23194635-7638-42f0-9a48-54dfe5a9916b",
+    "name": "Asana",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:55.174438Z"
+  },
+  {
+    "id": "6202c849-7256-4bab-95f6-423689a34246",
+    "name": "Trello",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:55.698559Z"
+  },
+  {
+    "id": "11b2b786-b2c1-4bc9-90be-793a63bc0c9f",
+    "name": "Zendesk",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:56.343030Z"
+  },
+  {
+    "id": "dc2907ea-30fc-47cd-96d7-de054d46543a",
+    "name": "ClickUp",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:57.496546Z"
+  },
+  {
+    "id": "5891eed3-911f-4c54-93a6-be60fdc50cd7",
+    "name": "LexisNexis",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:58.133110Z"
+  },
+  {
+    "id": "b5da0009-886d-458c-ae66-debd97028b82",
+    "name": "PowerBI",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:44:58.727047Z"
+  },
+  {
+    "id": "6e08ed3c-b96d-4c11-857b-eb0f0ebcf98c",
+    "name": "Tableau",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:01.694892Z"
+  },
+  {
+    "id": "d66e05c5-6d91-4663-a1ff-02ea6193523b",
+    "name": "Excel",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:02.310132Z"
+  },
+  {
+    "id": "81de5524-a519-4d70-896a-63c51fd5237f",
+    "name": "Google Alerts",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": "0",
+    "url": "",
+    "last_modified": "2026-01-27T11:45:03.339300Z"
+  },
+  {
+    "id": "f09f26af-acc4-4760-bf35-7dcd9b171e9f",
+    "name": "Talkwalker",
+    "description_short": "",
+    "description_long": "Hootsuite bought talkwalker in 2024, branding it as \"Hootsuite Listening powered by Talkwalker\"",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": "0",
+    "url": "",
+    "last_modified": "2026-01-27T11:45:04.015854Z"
+  },
+  {
+    "id": "f17ef91d-1894-4dad-8f39-c503813e6d4c",
+    "name": "Obsidian",
+    "description_short": "",
+    "description_long": "Useful as a research notebook because of it's features security (offline mode) and searchability within and between notes. The prospect research toolkit will eventually build a plug for Obsidian that is inteded to be helpful for taking notes while researching.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": "0",
+    "url": "",
+    "last_modified": "2026-01-27T11:37:28.976799Z"
+  },
+  {
+    "id": "1039f493-0b9a-47b1-9891-deae375e300f",
+    "name": "Kindsight",
+    "description_short": "",
+    "description_long": "$4150 for 1 license, 1500 screens 750 live profiles. 3 users starts at $5350",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": "4150",
+    "url": "",
+    "last_modified": "2026-01-27T11:37:29.460700Z"
+  },
+  {
+    "id": "b7db5277-e4b9-4196-8e60-7b9a28a99434",
+    "name": "BVResources.com",
+    "description_short": "",
+    "description_long": "Has some free items and provides interesting context for market valuation as a field. Business Valuation is a tricky subject in prospect research, because the value of a business does not necessarily reflect any specific wealth in associated individuals - but business valuation research is still valuable for a number of other use-cases beyond capacity and I need to flesh them out on this website. Small, privately held company.",
+    "tags": [
+      "Company Info"
+    ],
+    "tag_colors": {
+      "Company Info": "dark-red"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": "1750",
+    "url": "",
+    "last_modified": "2026-01-27T11:37:30.468652Z"
+  },
+  {
+    "id": "450769de-629d-4d0c-8c4c-dc118e84c2ca",
+    "name": "Foundation Directory",
+    "description_short": "",
+    "description_long": "Many university libraries also have enterprise accounts and other large organizations can get a \"special rate\" but I haven't figured out what that is yet.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": "1599",
+    "url": "",
+    "last_modified": "2026-01-27T11:45:07.173900Z"
+  },
+  {
+    "id": "7b1eac38-83e1-4eda-9f4f-fb81117d1d3c",
+    "name": "EveryAction",
+    "description_short": "",
+    "description_long": "Bonterra also has a Fundraising and Engagement suite, EveryAction was acquired by Bonterra as part of a broader consolidaiton of nonprofit tech tools led by Bonterra and its investers",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:07.726288Z"
+  },
+  {
+    "id": "ef6e42c4-04ab-472b-8b56-a5786d9c1e48",
+    "name": "Humanitru",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:08.549080Z"
+  },
+  {
+    "id": "960eb23e-3630-4d85-a5ee-f6624fc86e4c",
+    "name": "AIdentified",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:09.345946Z"
+  },
+  {
+    "id": "8ba9a78c-0460-40a8-8dd5-0cb8189d7adf",
+    "name": "ContactOut",
+    "description_short": "",
+    "description_long": "Chrome extension",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:09.851907Z"
+  },
+  {
+    "id": "27ec56f0-e550-43dd-946f-06845907a1d6",
+    "name": "White pages",
+    "description_short": "",
+    "description_long": "Good for phone numbers can be cross-checked with lexis or iWave, people also use usphonebook.com",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:10.621856Z"
+  },
+  {
+    "id": "c99b6bf4-fd6c-4599-bda7-52d8e3a35400",
+    "name": "Hunter.io",
+    "description_short": "",
+    "description_long": "or emails (or competitors Snov.io or ZeroBounce or Bouncer) but hunter.io has a good free plan 25 searches a month, and 50 email vertifications which is better than rocket reach",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:13.476930Z"
+  },
+  {
+    "id": "d649805a-275f-4cf1-a689-573be6144da7",
+    "name": "Code-fi",
+    "description_short": "",
+    "description_long": "International mentioned on PRSPCT-L",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:14.090799Z"
+  },
+  {
+    "id": "fefd7120-ea5a-4a83-b7ff-2d4e41dfdbac",
+    "name": "Altrata",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:14.547584Z"
+  },
+  {
+    "id": "ecad401f-ac16-4aa2-bfc4-daa0c1c79106",
+    "name": "Xapien",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Due Dilligence"
+    ],
+    "tag_colors": {
+      "Due Dilligence": "light-cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:14.998910Z"
+  },
+  {
+    "id": "89e8b67e-b327-4d92-b994-fa93a10d82f1",
+    "name": "Factiva",
+    "description_short": "Factiva is a subscription-based business intelligence platform that provides access to global news, company information, industry data, and market insights from a wide range of licensed sources.",
+    "description_long": "Factiva is a business information and research platform that aggregates global news company data and market intelligence from thousands of sources. Corporate subsidiary family trees executive lists and stock information (with links to paperwork) recent news querying and you can follow their source update page to see exactly which sources are being used discontinued etc. Good for big companies where the research question needs to dive in and understand subsidiaries or the overarching nature of the business",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "867b6468-3c74-4af8-a6e0-14b24e815e20",
+        "name": "Dow Jones",
+        "url": "https://www.dowjones.com/professional/factiva-news-database-alternatives"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T20:25:22.580655Z"
+  },
+  {
+    "id": "e4669e8a-e19b-418e-ba45-41fa85b7e332",
+    "name": "FactSet Research Systems",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:18.693693Z"
+  },
+  {
+    "id": "529b304d-8a2f-47ff-90b7-a005318a3ae0",
+    "name": "Mergent Intellect",
+    "description_short": "",
+    "description_long": "Extensive business info but Mergent Intellect arguably has one of the best executive searches letting you export files with hundreds of executives including their company phone number",
+    "tags": [
+      "Company Info"
+    ],
+    "tag_colors": {
+      "Company Info": "dark-red"
+    },
+    "companies": [
+      {
+        "id": "cd46617a-12ae-4814-a416-01c3b7320886",
+        "name": "MergentOnline",
+        "url": ""
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:20.517539Z"
+  },
+  {
+    "id": "d1ad2ce8-4f9d-4b59-adb7-c03e69664943",
+    "name": "PitchBook",
+    "description_short": "PitchBook is a financial data platform used by university libraries to provide detailed information on venture capital, private equity, and merger and acquisition activity across the private and public markets.",
+    "description_long": "PitchBook allows you to search private equity and investors venture capital deals, and information on mergers and acquisitions. Using real time data their emerging spaces feature discloses upcoming investor trends and the market map feature allows you to map out existing or emerging markets",
+    "tags": [
+      "Company Info"
+    ],
+    "tag_colors": {
+      "Company Info": "dark-red"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T12:21:06.811180Z"
+  },
+  {
+    "id": "2723ae23-fb19-4af7-a5f6-fc8cf3e0ef91",
+    "name": "PrivCo",
+    "description_short": "",
+    "description_long": "PrivCo is a source for business and financial data on non-publicly traded corporations including family owned private equity owned venture backed and international unlisted companies.",
+    "tags": [
+      "Company Info"
+    ],
+    "tag_colors": {
+      "Company Info": "dark-red"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:21.748635Z"
+  },
+  {
+    "id": "c01cf59f-3286-4654-907a-2c625902e80e",
+    "name": "ProspectAI",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:32.387926Z"
+  },
+  {
+    "id": "3f176942-20c4-4001-8717-ab356a9dcde1",
+    "name": "ResearchRiley",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:23.711067Z"
+  },
+  {
+    "id": "a1b33dfc-b440-4fc2-88a6-0d27ac49af0a",
+    "name": "Assay",
+    "description_short": "",
+    "description_long": "from website: https://geisgetsresults.com/assay/ Assay’s algorithm evaluates and weighs Key Performance Indicators (KPIs). Assay provides a propensity score which helps you target the right donors and select appropriate tactics for donor development.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:31.913748Z"
+  },
+  {
+    "id": "c8e65d56-c962-4d7a-bc50-b4a771b95ec8",
+    "name": "Radar",
+    "description_short": "",
+    "description_long": "Probably overkill for due dilligence however it has an alert system that could be useful if reputational hazards are a high priority. It seems intended more for law firms hoping to find new clients and keep track of ongoing cindustry info and it's unclear if anyone in fundraising uses Radar for this purpose. My guess is it's too expensive for a more rare use-case and other tools (like the legal side of Lexis) maybe do a better job or are more familiar. A free trial is available though!",
+    "tags": [
+      "Due Dilligence"
+    ],
+    "tag_colors": {
+      "Due Dilligence": "light-cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:32.857816Z"
+  },
+  {
+    "id": "da083399-966e-4811-812b-ab0820e31be6",
+    "name": "ScraperApi",
+    "description_short": "",
+    "description_long": "Good info on web scraping which is legal for public information as long as you abide by terms of service. Scraper api is an example of a paid resource for this but there are other options as well and almost all have free trials.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:26.601853Z"
+  },
+  {
+    "id": "aa1568f1-fe3e-4ef2-b847-6568745b792b",
+    "name": "Octoparse",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:27.116459Z"
+  },
+  {
+    "id": "21c8f4f7-48c2-4201-95cf-24525934874b",
+    "name": "Loopnet",
+    "description_short": "",
+    "description_long": "Some free options. The usecase for this one is a little odd: if you want to check on the status of a company understanding if the commercial space is up for sale might offer some clues that are otherwise invisible at other sources. ",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:27.611520Z"
+  },
+  {
+    "id": "7ab67c83-af2d-43b0-bda4-d4ec1fc8d269",
+    "name": "DonorPerfect",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:28.355818Z"
+  },
+  {
+    "id": "3a3d9daa-4e74-43a6-9569-1cd04eceb77c",
+    "name": "DonorAtlas",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:28.833915Z"
+  },
+  {
+    "id": "0c95b377-f253-4ea2-9a84-69a00929bc74",
+    "name": "WealthEngine",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:32.638746Z"
+  },
+  {
+    "id": "1f2b086b-eff8-4c37-b345-d5c6474eba3b",
+    "name": "Windfall",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:33.349862Z"
+  },
+  {
+    "id": "9d2c04ed-d322-4f5b-a9ca-21d0bfaab309",
+    "name": "DatabaseUSA",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:33.865880Z"
+  },
+  {
+    "id": "d076dbc7-7717-40c9-8f88-d57d5c0939a3",
+    "name": "Dun & Bradstreet ",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:34.561162Z"
+  },
+  {
+    "id": "e6d3aa63-3b11-408e-933e-8721e974558b",
+    "name": "Edgar (SEC)",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:35.514624Z"
+  },
+  {
+    "id": "fc180031-57dc-40ca-8085-662a79ed2649",
+    "name": "Larkspur",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:36.457896Z"
+  },
+  {
+    "id": "7964faae-d72a-466d-83e3-12f91049e4f8",
+    "name": "Monday.com",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:37.104962Z"
+  },
+  {
+    "id": "f720be78-47b3-414a-ad39-a21097b501f6",
+    "name": "Pipl.com",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:37.815611Z"
+  },
+  {
+    "id": "dca99f2c-2d82-4e86-9fa8-0c9b35ae2da8",
+    "name": "PowerQuery",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Data Analytics"
+    ],
+    "tag_colors": {
+      "Data Analytics": "green"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:38.721243Z"
+  },
+  {
+    "id": "b4720b3a-f35a-4322-b156-d701d2e9bf4e",
+    "name": "Reclaim the Records",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:41.815080Z"
+  },
+  {
+    "id": "79058a06-6caf-484b-ac27-fe6050533aba",
+    "name": "RelSci",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:42.331309Z"
+  },
+  {
+    "id": "80affd42-7440-4f5b-a304-2058331589cc",
+    "name": "Verigift",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:45.807736Z"
+  },
+  {
+    "id": "9845b3ad-f7c3-4412-9bb8-c6d9d0a7fe0b",
+    "name": "Wealth-X",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:46.539633Z"
+  },
+  {
+    "id": "20403568-1fd8-4522-940c-92d2c0b796a0",
+    "name": "ZoomInfo",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:47.081562Z"
+  },
+  {
+    "id": "7a9f2d6e-3f6b-4476-b2a0-fcd471a2c32b",
+    "name": "TheOrg",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:50.783640Z"
+  },
+  {
+    "id": "41275521-255b-4c51-81a1-39d904930952",
+    "name": "LittleSis",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Due Dilligence"
+    ],
+    "tag_colors": {
+      "Due Dilligence": "light-cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:51.339236Z"
+  },
+  {
+    "id": "16d6abc2-77ad-4a80-b048-dcffa536280f",
+    "name": "Maltego",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:51.897601Z"
+  },
+  {
+    "id": "fb8edbbb-f942-4ddc-a954-adfed7f7e1ee",
+    "name": "OpenCorporates",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:52.368447Z"
+  },
+  {
+    "id": "fa25a412-3178-4114-ace6-29ca01e69880",
+    "name": "CorpWatch API",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:52.810161Z"
+  },
+  {
+    "id": "ef0abaaf-69f1-41ee-b2d7-7c5463e2c7cf",
+    "name": "BuiltWith",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:53.395040Z"
+  },
+  {
+    "id": "ceab6bfc-134f-421c-bc84-c0b11df4ef8b",
+    "name": "Whois/ICANN Lookup",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:54.102079Z"
+  },
+  {
+    "id": "4b351e21-d396-4ba8-ba13-490b3983962f",
+    "name": "Wayback Machine",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:55.053508Z"
+  },
+  {
+    "id": "b25eec0b-6a5b-4c8d-92fa-9619cd822b3f",
+    "name": "ProQuest",
+    "description_short": "ProQuest is a global information-content and technology company that provides academic libraries and researchers with access to a massive collection of digitized dissertations, historical newspapers, scholarly journals, and primary source documents.",
+    "description_long": "ProQuest has dozens of databases, and institutions can choose to subscribe to specialized periodical databases or just default to the \"central\" list. The ProQuest Central database is the largest single periodical resource available, bringing together complete databases across all major subject areas, including Business, Health and Medical, Social Sciences, Education, Science and Technology, and Humanities. Notably, press release wires and international reach.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "25e7f72a-3fba-47ae-b6bc-c71ed08967ed",
+        "name": "Clarivate",
+        "url": "https://www.proquest.com"
+      }
+    ],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T20:12:22.550065Z"
+  },
+  {
+    "id": "767746f2-3943-4944-b514-4f2018d3d4a4",
+    "name": "DataAxle Reference Solutions",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:57.441201Z"
+  },
+  {
+    "id": "c3eeb2a7-1663-46ee-9906-32421c412b1a",
+    "name": "Gephi",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:57.940910Z"
+  },
+  {
+    "id": "3b407768-5c64-4a1a-b875-b975235bb6c5",
+    "name": "Google Alerts",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:58.489492Z"
+  },
+  {
+    "id": "04ce727e-7030-4b94-9a1d-642aa8302c4a",
+    "name": "TikTok",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:45:59.831583Z"
+  },
+  {
+    "id": "0ab362ac-670b-4df2-9db8-c23ec6c2f50f",
+    "name": "Crunchbase",
+    "description_short": "",
+    "description_long": "",
+    "tags": [
+      "Company Info"
+    ],
+    "tag_colors": {
+      "Company Info": "dark-red"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:00.947165Z"
+  },
+  {
+    "id": "039d52df-fc4f-44fc-aa20-d16be33719f3",
+    "name": "Lucidchart",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:02.969637Z"
+  },
+  {
+    "id": "4557d813-63a5-4c33-afb6-7a3ff4bdbe36",
+    "name": "OpenSecrets",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:03.752926Z"
+  },
+  {
+    "id": "8da5ed2f-ccd9-4b0d-9e69-8fc267ce1855",
+    "name": "Statista",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:04.437675Z"
+  },
+  {
+    "id": "08b6853b-4000-498e-a034-dc4208345e47",
+    "name": "ValueLine",
+    "description_short": "",
+    "description_long": "Helpful to understand industry market movers or big public companies. The most relevant datapoint for prospect research is the company financial health letter grade the ValueLine analysts provide in the bottom right corner of the ValueLine Investment Survey pdf - could be useful in an overview (e.g. A- financial health) or as a bullet point for supplemental descriptions of a company. Otherwise quite limited for prospect research. ",
+    "tags": [
+      "Company Info"
+    ],
+    "tag_colors": {
+      "Company Info": "dark-red"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:33.844084Z"
+  },
+  {
+    "id": "26697696-177c-47bc-8a10-c6ef93244be4",
+    "name": "TheOfficialBoard",
+    "description_short": "",
+    "description_long": "Surprisingly robust free options and pretty cheap paid ones honestly seems like a hidden gem. Limits its reach to public companies. From the probably outdated Wikipedia page: The Official Board is a France-based online contact database. The database maintains up-to-date corporate organizational and data charts for all the world's private and public companies exceeding $100 million in revenue which includes over 50,000 companies. The data is updated by industry experts and members of the site and is verified by each company. It is used to research organizational structures and find contact information for corporate executives.\n\nThe Official Board was founded by Amazon and Apple Inc. executive Thomas Lot in 2009. ",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:56.470166Z"
+  },
+  {
+    "id": "3ae7a246-17c9-47f2-abb4-4060d7628285",
+    "name": "Salutary Data",
+    "description_short": "",
+    "description_long": "Supplies contact information for tools like Nexis Uni. Details from Pitchbook: Provider of business data services intended for businesses to connect. The company offers data including postal codes phone numbers email name title and company details. Founded in 2015. I have accessed their reports via Nexis Uni and their \"biographies\" include compensation information as well as job titles and LinkedIn URLs. Nexis lets you download the Salutary Data reports as RTF or DOCX or PDF bundled or as separate files. Unsure of how they source their information but those two data points: compensation and LinkedIn URL are interesting.",
+    "tags": [
+      "Data Broker"
+    ],
+    "tag_colors": {
+      "Data Broker": "cyan"
+    },
+    "companies": [],
+    "rating": "0",
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T04:51:59.857316Z"
+  },
+  {
+    "id": "1f80cd77-92fd-4426-8abc-55317326e854",
+    "name": "",
+    "description_short": "Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including over 15,000 news and business sources.",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:47:16.625882Z"
+  },
+  {
+    "id": "95c3eb1f-1c4f-42ca-af33-78060ee143af",
+    "name": "Nexis Uni",
+    "description_short": "Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including over 15,000 news and business sources.",
+    "description_long": "Essentially the same tool as LexisNexis, one of the variants. Law enforcement has their own variant, for example. Nexis Uni is the one scoped for college-level research and emphasizes the breadth of its legal sources. Unlike Nexis for Development Professionals, you cannot look up the personal info of specific people. It may be drawing from many of the same sources as ProQuest for its news articles, though how they stack up against each other has not yet been explored in this toolkit. Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including all federal and state case law, regulations, statutes and many legal journals. Nexis Uni also contains over 15,000 news and business sources.",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:53.874342Z"
+  },
+  {
+    "id": "3465fc1e-eb32-4800-b4bc-3c05ad45cb6e",
+    "name": "Newspapers Source",
+    "description_short": "",
+    "description_long": "Newspaper Source provides cover-to-cover full text for more than 40 national (U.S.) and international newspapers, including the *The Sunday Times*, *USA Today*, *The Washington Post*, *The Arizona Daily Star*, *The Wyoming Tribune-Eagle*, *Minneapolis Star Tribune*, and more. The database also contains a selection of full-text television & radio news transcripts from CBS News, CNN, FOX News, NPR, and others",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:37:49.081077Z"
+  },
+  {
+    "id": "5c77eab0-4bcb-480a-a365-35af73226ccb",
+    "name": "Newspapers.com",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:09.454950Z"
+  },
+  {
+    "id": "46cca280-df4c-4154-afc3-9faf98d2773f",
+    "name": "BCC Research",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:09.972312Z"
+  },
+  {
+    "id": "2260d066-6d64-4174-9e71-3625e1eed9f7",
+    "name": "ProQuest One Business",
+    "description_short": "The comprehensive flagship platform for business articles, though many institutions still pay for individual databases that feed into this aggregator.",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "25e7f72a-3fba-47ae-b6bc-c71ed08967ed",
+        "name": "Clarivate",
+        "url": "https://www.proquest.com"
+      }
+    ],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:46:32.635002Z"
+  },
+  {
+    "id": "68996483-09fb-404a-947b-b2fea2dfa20a",
+    "name": "ProQuest ABI/Inform Collection",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "25e7f72a-3fba-47ae-b6bc-c71ed08967ed",
+        "name": "Clarivate",
+        "url": "https://www.proquest.com"
+      }
+    ],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T11:50:03.445494Z"
+  },
+  {
+    "id": "623df448-e3aa-4f09-961a-2221bf547565",
+    "name": "Nexis for Development Professionals",
+    "description_short": "Nexis for Development Professionals is an online prospect research platform that supports fundraising by providing access to over 81 billion public records and 10,000+ data sources to identify high-potential donors, assess their wealth and giving capacity, and mitigate reputational risks.",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [
+      {
+        "id": "b09bfae6-c221-450e-bc71-6bd379ea3b33",
+        "name": "RELX",
+        "url": "https://www.lexisnexis.com"
+      }
+    ],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-01-27T19:48:31.100457Z"
+  },
+  {
+    "id": "d43d9179-dc7d-4e4e-89ba-2ac04e242dae",
+    "name": "Ancestry.org",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:24:41.704940Z"
+  },
+  {
+    "id": "7f2fa3b0-441a-4957-8c3c-1aa46d098738",
+    "name": "MyHeritage",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:24:44.003781Z"
+  },
+  {
+    "id": "37410e15-c7d4-41ce-adfa-ece8e5128fc3",
+    "name": "FamilySearch",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:25:05.655037Z"
+  },
+  {
+    "id": "4467a85a-5e79-49d8-b9c8-a9c42f04488b",
+    "name": "Findmypast",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:25:03.863280Z"
+  },
+  {
+    "id": "9d3504d0-bcef-4569-afce-c1ff73da6065",
+    "name": "USGenWeb Project",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:24:54.461427Z"
+  },
+  {
+    "id": "3a05e44b-1e18-4e56-9195-947d2cc39389",
+    "name": "AccessGenealogy",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:25:09.188330Z"
+  },
+  {
+    "id": "fbd3df0d-89fb-48de-b08e-6eb3afc955c7",
+    "name": "Olive Tree Genealogy",
+    "description_short": "",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:24:59.326405Z"
+  },
+  {
+    "id": "6c269af6-a739-4a76-985f-112b2798618b",
+    "name": "",
+    "description_short": "Nexis Uni is an affiliate database to LexisNexis and contains select databases found in Lexis, including over 15,000 news and business sources.",
+    "description_long": "",
+    "tags": [],
+    "tag_colors": {},
+    "companies": [],
+    "rating": null,
+    "cost": null,
+    "url": "",
+    "last_modified": "2026-02-03T21:23:44.253824Z"
+  }
+]
